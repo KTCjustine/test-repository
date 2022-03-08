@@ -1,0 +1,411 @@
+@import url('https://rsms.me/inter/inter.css');
+html, body { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html, body { font-family: 'Inter var', sans-serif; }
+}
+
+
+.main-container {
+    background-color: #ffffff;
+}
+.header {
+    align-items:center
+}
+.health-labs    {
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+.flex-row01 {   
+    padding-left:auto;
+    text-align: center;  
+}
+.flex-row02 {
+    margin: auto;
+    padding: 10px;
+}
+.flex-row03 {
+    margin: auto;
+    padding-left:auto;   
+}
+.flex-row2  {
+    margin: auto;
+    align-items: center;
+    margin-top: auto;
+}
+.flex-row1  {
+    padding-left: 20px;
+    align-items: flex-start;
+}
+.flex-row3  {
+    margin: 0px auto;
+    align-items: center;  
+    margin-right: 10px;   
+}
+.header02   {
+    margin-right: 20px;
+}
+.menu-bar   {
+    margin: 0px 20px;
+}
+.main-content {
+    max-width: 1220px;
+    margin: 0px auto;  
+    background-color: #ffffff;
+}
+.section-padder {
+    padding: 20px 40px
+}
+.section-content {
+    width: 90%;
+    border-radius: 23px;    
+}
+.magenta {
+    color:#802d58 ;
+}
+.magenta-yellow {
+    background-color: #fdf100;
+}
+.section-01 {
+    text-align: center;
+    background-color: #802d58;
+    color: antiquewhite;
+    padding: 20px;   
+}
+.text-1 {
+    text-align: center;
+}
+.section-02-sub-1 {
+    border: 1px solid #802d58;
+    border-radius: 15px;
+    background-color: #F7F7F7F7;
+}
+.text2 {
+    text-align: start;
+    font-size: 46px;
+    padding-top: -20px;
+    width: 80%;    
+}
+.limited-stocks-1 {
+    position: right;
+}
+.text3 {
+    font-size: 100px;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.padlock {
+    max-width: 60px;
+    padding-right:20px ;
+}
+.btn  {
+    color: antiquewhite;
+    font-weight:800;
+    border-radius: 10px;
+    padding-left: 70px;
+    padding-right: 70px ;
+}
+.limited-edition    {
+    background-image: url(../images/limitedstocks.png);
+    background-position: right 1px top 10px ;
+    background-repeat: no-repeat;
+    background-size: 17%;
+}
+.hydration {
+    max-width: 350px;
+}
+.text4  {
+    text-align:justify;
+}
+.section-01-col-01  {
+    max-width: 350px;
+}
+.text5 {
+    border: 0.5px solid #E5D5DD;
+    border-radius: 10px;
+    background-color: #F7EBF1;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 25px;
+}
+.no-thanks {
+    background: #989898;
+    color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    width: 175px;
+    margin: 25px auto;
+    background-image: linear-gradient(to right, #B9B9B9, #989898);
+    padding: 10px;
+}
+.btn1 {
+    border-radius: 10px;
+    padding: 10px 10px;
+    padding-left: 50px;
+    padding-right: 50px;  
+    margin-top: 30px;            
+}   
+.text6  {
+    margin-left: 300px;
+    top: 300px;
+}
+.box3  {
+    margin-left: 200px;
+    align-items: center;
+}
+.box4 {
+    margin-left: 20px;   
+}
+.section-03 {
+    border: 0.5px solid #E2E3E2;
+    background-color: #f7f7f7;
+    border-radius: 23px;   
+}
+.text-6 {
+    text-align: center;
+    background-color: #802d58;
+    color: antiquewhite;
+    padding: 5px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    max-width: 1220px;
+    border: 0.5px solid #E2E3E2;  
+}
+.dr-zane  {
+    max-width: 400px;
+    align-items: center;   
+}
+.section-03-sub-2 {
+    border: 2px solid #e3e3e3; 
+    background-image: url(../images/Mask\ Group\ -3.png); 
+    background-repeat: no-repeat;
+    background-color:#ffffff;
+    background-size: 95%;
+    background-position: right -50px bottom; 
+    border-radius: 23px; 
+
+}   
+.text-7 {  
+    font-size:35px;  
+}
+.text-8 {
+    font-size: 26px;
+    font-weight: 700;
+    width: 60%;   
+}
+.text-9 {
+    width: 60%;
+}
+.text-10 {
+    padding-left: 26px;
+    font-size:  26px;
+}
+.text-10-down {
+    padding-left: 26px;
+    font-weight: 700;
+}
+.text-10-down2 {
+    padding-left: 26px;
+}
+.text-12 {
+    
+    font-size: 26px;
+    width: 60%;
+}
+.text-13 {   
+    font-size:  16px;
+    width: 70%;
+}
+
+.stocks-1 {
+    max-width: 400px;
+}
+.text-14 {
+    width: 60%;
+    font-size: 26px;
+}
+.text-15 {
+    width: 100%;
+}
+
+/* start here */
+.run-out {
+    color: #000000;
+    font-weight: 700;
+    font-size: 26px;
+}   
+/* .botbadge img{
+    position: relative;
+    margin-top: -60px;
+    margin-left: -100px;
+} */
+.section-03-sub-5 {
+    background-color: #F7EAF1;
+    background-image: url(../images/Mask\ Group\ -4.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 23px;
+}
+.section-03-sub-6 {
+    background-color: #ffff;
+    background-image: url(../images/Mask\ Group\ 123.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius:23px;
+}
+.section-04 {
+    border: 2px solid #e3e3e3;
+    border-radius: 23px;
+    background-color: #F7F7F7;
+}
+.in-fact {
+    font-weight: 700;
+    font-size: 35px;
+}
+.section-04-sub-2 {
+    border: 2ps solid;
+    background-color: #F7EBF1;
+    border-radius: 23px;
+}
+.money-back {
+    font-weight: 700;
+    color: #802d58;
+    font-size: 26px;
+}
+.section-05 {
+    border: 1px solid #802d58;
+    border-radius: 23px;
+    background-color: #F7F7F7;
+}
+.section-04-sub-3  {
+    background-color: #ffff;
+    margin-left: 50px;
+}
+.inner-cont.row-16 {
+    background-color: #fff;
+    padding: 6px;
+    max-width: 890px;
+    margin: 40px auto;
+    text-align: center;
+}
+.inner-cont {
+    padding: 33px;
+    border-radius: 35px;
+}
+.mb-rush {
+    background: #802D58 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    max-width: 358px;
+    padding: 18px 15px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: center;
+    font-weight: 700;
+    width: 100%;
+    margin-left: -10px;
+}
+.col-md-6.rush-right {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    justify-content: center;
+}
+.Hydration2 {    
+    margin-left: 90px;
+}   
+.text16 {
+    font-size: 40px; 
+}
+.limitedstock2  {
+    max-width: 200px;
+}
+.limited-edition2  {
+    background-image: url(../images/limitedstocks.png);
+    background-position: bottom 370px right 10px;
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: relative;
+}
+.sec-enc {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+    max-width: 430px;
+    float: right;
+}
+.in-guarantee img {
+    max-width: 91px;
+    margin-top: -40px;
+    margin-left: -40px;
+}
+.icons-100 {
+    float: right;
+    width: 100%;
+    max-width: 428px;
+    text-align: center;
+    margin-top: -30px;
+}
+.guaranteed2 {
+    margin-left: 70px;
+}
+.sec-enc  img  {
+    margin-right: 20px;
+    margin-bottom: 20px; 
+}
+.txt-secenc {
+    text-align: start;
+}
+.sdiscount {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.20000000298023224px solid #707070;
+    border-radius: 47px;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.blue-bg {
+    background-color: #802D58;
+}
+.icons-protection {
+    padding: 50px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 18px;
+}
+.protect-col {
+    display: flex;
+    align-items: center;
+}
+.protect-row {
+    width: 80%;
+    margin: 0 auto;
+}
+.icons-protection img {
+    margin-right: 30px;
+    width: 37px;
+}
+.py-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+}
+.footer-links-1 a {
+    color: #fff !important;
+    margin: 0 10px;
+    text-decoration: none !important;
+    font-family: arial;
+}

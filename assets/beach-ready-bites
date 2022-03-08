@@ -1,0 +1,2052 @@
+<html>
+  <head><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4PV6LF');</script>
+<!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="canonical" href="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="WebForce HQ" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="WebForce HQ" />
+    <meta name="content-language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><!-- Open Graph >>> -->
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:type" content="website" />
+    <meta name="country" content="US" />
+    <meta name="classification" content="" /><!-- <<< Open Graph -->
+    <!-- Robots >>> -->
+    <meta name="Robots" content="NOODP" />
+    <meta name="revisit" content="1 days" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="robots" content="index, follow" />
+    <meta name="alexa" content="100" />
+    <meta name="subject" content="" />
+    <meta name="robots" content="all, index, follow" />
+    <meta name="googlebot" content="all, index, follow" />
+    <script>
+    
+    window.Laravel = {"csrfToken":"daUqT16biwjSDvkoYStkJbe7TMdH1JeG1zxiATqd"};
+    window.rollbarTokenPostClientItem= {"token":null,"env":"production"};
+    
+    </script>
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous" />
+    <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/frontEnd.css" rel="stylesheet" />
+ 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://storage.googleapis.com/wfhq_sciencenatural/default-images/cropped-favicon-32x32.jpg" type="image/x-icon">
+    
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo&display=swap" >
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    
+  		<meta name="keywords" content="">
+		<meta name="author" content="webforcehq.com">
+		<title>Beach Ready Bites</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+<!--Bootstrap Core-->
+<link href="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/css/bootstrap.min.css" rel="stylesheet">
+<!--Custom Style-->
+<link href="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/css/style2.css" rel="stylesheet">
+<meta property="og:image" content="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-beach.png"/>
+
+<style>
+#affect .list-p{
+    align-items: center;    
+}
+.sec-14 .list-points .list-p{
+    align-items: center;
+}
+.sec-20 .list-p{
+    align-items: center;
+}
+.sec-22 #proud .list-p{
+    align-items: center;
+}
+.b1g3-cart:hover{
+    background-image: linear-gradient(89deg ,#c68a06 0%,#ee9100 100%)!important;
+}
+@media  screen and (min-width: 800px){
+    .writing-p{
+        padding-right: 30px;
+    }
+    #like-magic {
+        background-size: 35%;
+    }
+    #fats{
+        width: 42%;
+    }
+    #harvard {
+        margin-top: -50px;
+    }
+    #weight-check {
+        width: 120%;
+    }
+    .sec-19 h2 {
+        font-size: 28px;
+    }
+    #doctor p {
+        padding: 0px 20px;
+    }
+    #gmp-img{
+        width: 140%;
+        margin-left: -20%;
+    }
+    .sec-23 h1 {
+        margin-bottom: 50px;
+    }
+}
+@media  screen and (max-width: 368px){
+    .full-width-img{
+        width: 100%;
+    }
+    .copyright{
+        font-size: 10px !important;
+    }
+    #stress {
+      margin-bottom: 0px;
+    }
+}
+</style>
+		    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://storage.googleapis.com/wfhq_sciencenatural/dev-training/assets/css/custom-template.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="https://storage.googleapis.com/wfhq_sciencenatural/moringa/css/default2.css"  media="all">-->
+			<script>
+                window.stripekey    = '';
+                window.locale       = 'en';
+                window.gateway      = 'braintree_1';
+                window.oxxogateways = JSON.parse('["stripe_8"]');
+                window.gateways     = {"braintree_1":"Braintree\\BraintreeGateway","nmi_7":"NMI\\NMIGateway","stripe_8":"Stripe\\StripeGateway","nmi_9":"NMI\\NMIGateway"};
+            </script><script>
+                    window.PaypalBraintree = JSON.parse('{"environment":"production","tokenization_key":"production_gphccspw_pdpgwkp4g52jd7vv","key":"paypal_2","enabled":1,"paypal_credit":false}');
+                </script><script>
+                    window.GooglePayBraintree = JSON.parse('{"environment":null,"tokenization_key":null,"enabled":false,"key":null}');
+                </script><script type='text/javascript' src='https://ssl.kaptcha.com/collect/sdk?m=100050'></script></head>
+  <body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4PV6LF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div id="app">
+      		<div class="container-fluid header light-blue">
+        <div class="container">
+            <h1 class="black">Eat These “Beach Ready Bites” Before <br>Every Meal and <span class="pink melt">Watch Your Fat Melt Away! <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-header-arrow.png" loading="lazy" id="header-arrow"></span></h1>
+            <h2 class="p-font blue-green">(Faster Than You Ever Thought Possible.)</h2>
+            <h3 class="black">Plus, discover the true story of how the “Beach Ready Bites” led one mother to <span id="underline1">burn off all 46 lbs. of excess fat </span>– and repair the fractured relationship with her young daughter.</h3>
+        </div>
+    </div>
+
+    <div class="container sec-2">
+        <h2>“Mommy, I’m glad I’m not in class today…<br>
+            The other kids make fun of me <span class="pink">because you’re fat.”</span></h2><br>
+        <p class="black">My 11-year-old daughter was snuggled up to me, taking a sick day...</p>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon.png" loading="lazy"></span> <span>“They say you’re the biggest mom at school...”</span></p> <br>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon.png" loading="lazy"></span> <span>They call you “thunder thighs”...</span></p><br>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon.png" loading="lazy"></span> <span>“Jell-o belly”...</span></p><br>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon.png" loading="lazy"></span> <span>“Fatty”...</span></p>
+        <p class="black">
+            It went on and on. <br><br>
+            The more she told me, the more horrified I became…<br><br>
+            Yet nothing could have prepared me for what she said next…
+        </p>
+    </div>
+    <div class="container sec-3">
+        <h2 class="black">“Mommy, I won’t end up as big as you, will I?”</h2><br>
+            <div class="flex flex-d">
+                <p class="black">My heart shattered into a million little pieces…
+                    <br><br>
+                    As I sat there on the couch, I realized just how much my
+                    belly sagged over my belt…
+                    <br><br>
+                    How my “marshmallow” legs were so big I couldn’t even
+                    think about crossing them…
+                    <br><br>
+                    And how my butt spilled across two couch cushions...
+                    <br><br>
+                    But worst of all, I realized…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-mother-sad.png" loading="lazy" class="full-width"></p>
+            </div>
+    </div>
+    <div class="container-fluid light-blue">
+        <div class="container sec-4">
+            <h1 class="black">My daughter was being <span id="underline2">BULLIED</span> because 
+                <br>
+                I was carrying <span class="pink">46 lbs. of suffocating fat.</span></h1>
+            <h2 class="blue-green p-font">(Thankfully, this horrifying realization forced me to unearth a weight loss mystery that restored my slender body – and I’m going to share it with you today.)</h2>
+            <p class="black">
+                <br>
+                I should have seen the signs…<br><br>
+                At dinner, I’d catch my daughter pushing food around her plate with a fork…<br><br>
+                She’d hide her body in baggy clothes just like me...<br><br>
+                And lately, she’d begun asking me to drop her off a block away from school so she wouldn’t be
+                seen with me.<br><br>
+                I felt like I’d completely <b>failed her as a mom</b> -- and our relationship was fracturing because of it...<br><br>
+                Which is why, for the next three days, I spent every quiet moment crying...<br><br>
+                
+            </p>
+            <div class="flex flex-d">
+                <p class="writing-p">
+                    <b>But that’s not why I’m writing to you today.</b><br><br>
+                    <u>The truth is, my mortifying journey would eventually
+                    lead me to the point where I said “no more”...</u><br><br>
+                    The day I decided to go to the ends of the Earth for
+                    my little girl…<br><br>
+                    To stop her from being bullied and feeling ashamed
+                    to be seen with me...<br><br>
+                    But it wouldn’t be enough to just talk to the parents
+                    of the kids involved… <br><br>
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-kid-sad.png" loading="lazy" class="full-width"></p>
+            </div>
+        </div>
+    </div>
+    <div class="container sec-5">
+        <h3>If I wanted to end my daughter’s bullying and <br>
+            repair our fractured relationship...</h3>
+        <h1>Then I had to <span class="pink">transform my body</span> and <br> 
+            restore the <span id="underline3">slender shape of my youth.</span></h1>
+        <p class="black">
+            <br>
+            As you’ll see… <br><br>
+            What followed was a dramatic but incredibly rewarding few months…<br><br>
+            Where I’d discover the real cause of my stubborn, excess weight…<br><br>
+            <span class="blue-green p-font">(Surprisingly, it involves “reprogramming” a type of food you eat every single day.)</span><br><br>
+            As well as unearthing the oh-so-simple solution that lets ANYONE melt fat away fast…<br><br>
+            Whether you’re 35 or 65...<br><br>
+            <b>Whether you’ve got 50 lbs. to lose or you’re down to your last 10 lbs...</b><br><br>
+            And no matter your background or genetics.<br><br>
+            But of course, the real proof is in how I look now…
+        </p>
+        <div class="after-before">
+            <div class="before flex flex-d">
+            <p class="center-t caption-box">
+                <span class="black sub-title">I went from this… <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow.png" loading="lazy" class="caption-arrow1 hide-arrow"></span><br>
+                <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-before.png" loading="lazy" class="full-width center-t hide-desktop show-mobile">
+                <span class="p-font blue-green">Not only fat… but feeling anxious… self-conscious… tired all the time... and the cause of my daughter’s bullying.</span>
+            </p>
+            <p class="center-t hide-mob"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-before.png" loading="lazy" class="full-width"></p>
+            </div>
+            <div class="before flex flex-r">
+                <p class="hide-desktop show-mobile left-a"><span class="black sub-title"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-mob-arrow.png" loading="lazy" id="mob-arrow"></span></p>
+                <p class="hide-desktop show-mobile"><span class="black sub-title">To this… </span></p>
+                <p><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-after.png" loading="lazy" class="full-width"></p>
+                <p class="center-t caption-box"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-left-arrow.png" loading="lazy" class="hide-arrow caption-arrow2"><span class="black sub-title hide-mob">To this… </span><br>
+                    <span class="p-font blue-green">A radiant version of myself… <br>
+                        6 dress sizes smaller… <br>
+                        and full of energy. </span>
+                </p>
+            </div>
+            <p class="black">
+                <br><br>
+                <b>Frankly, if I didn’t have the pictures to prove it…</b><br><br>
+
+                <u>I wouldn’t believe this kind of weight loss was possible </u><br><br>
+                <span class="p-font blue-green">(at least, not for a woman with my genetics!)</span><br><br>
+
+                So I understand if you’re skeptical…<br><br>
+
+                After all, you’ve probably seen a bajillion stories like mine before…<br><br>
+                Where someone (usually a man who’s never been in our shoes!) promises us the world… only to deliver a big scoop of nothin’. <br><br>
+
+                Well, woman to woman – I know from decades of failed dieting and exercising, just how hard it is to lose weight after your 30s (and especially if you’ve had children).<br><br>
+
+                <span class="pink"><b>So I can guarantee you’ve never heard of what I’m about to share with you today...</b></span>
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid sec-6 light-blue">
+        <div class="container">
+            <p class="center-t hide-desktop show-mobile"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-happy-woman.png" loading="lazy" class="full-width"></p>
+            <h1>It’s all thanks to these little <br>
+                <span class="pink">“Beach Ready Bites”.</span>
+            </h1>
+            <div class="flex flex-d">
+                <div class="black">
+                    <p>These “bites” are like something out of Willy Wonka's chocolate factory...</p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> Sweet...</p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> Delicious...</p>
+                    <p>And almost miraculous in how easy it makes losing weight.<br><br>
+                        <b>Seriously, you take just two of the Beach Ready Bites with
+                            every meal --and you’ll watch as the fat melts off your body…</b>
+                        <br><br>
+                        <span class="blue-green"><b>Without:</b></span> 
+                    </p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> HIIT workouts</p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> Zumba</p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> Insanity</p><br>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> lifting heavy weights</p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> or any other crazy exercise routine...</p><br>
+                </div>
+                <p class="center-t hide-mob"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-happy-woman.png" loading="lazy" class="full-width"></p>
+            </div>
+            <span class="blue-green"><b>AND without doing:</b></span><br><br>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> Keto</p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> Atkins</p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> Intermittent Fasting</p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> or any kind of “fad” diet.</p>
+            <div class="flex black">
+                <p>
+                    Yet despite this…
+                    <br><br>
+                    <b>You won’t find these bites at Whole Foods, Costco or your nearest Target.</b>
+                    <br><br>
+                    The reason why is that until recently, no one knew why these bites worked so well...
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-uni-logos.png" loading="lazy" id="uni-logos">
+                    <br><br>
+                    But thanks to a few scientists from Harvard, Stanford and John Hopkins… 
+                    <br><br>
+                    Who each spent months studying the fundamental science behind it…
+                    <br><br>
+                    Revealing why these bites are just so good at burning the fat off… 
+                    <br><br>
+                    And keeping it off for good...
+                    <br><br>
+                    We now know exactly how it works. 
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-logos.png" loading="lazy" class="hide"></p>
+            </div>
+        </div>
+    </div>
+    <div class="container sec-7">
+        <div id="like-magic">
+            
+            <h1 class="black">The Beach Ready Bites <span class="pink">work like magic</span> </h1>
+            <h2>By “reprogramming” every carbohydrate you eat to <span id="underline4">burn off excess fat.</span></h2>
+            <p class="black">
+                <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-carb-bg.png" loading="lazy" id="carbs">
+                Seriously…
+                <br><br>
+                <b>Thanks to the Beach Ready Bites, <br>
+                you can stop carbohydrates going straight to your waistline.</b>
+                <br><br>
+                For the first time in your life, you can make carbs work for YOU… 
+                <br><br>
+                <b>So every time you eat pizza, fries or pasta…</b>
+                <br><br>
+                <u>Your body totally refuses to store them as jiggly fat…</u>
+                <br><br>
+                <b>And instead forces your belly, hips, arms (and everywhere else) to <br>release lbs. and lbs. of stored weight. </b>
+                <br><br>
+                As I'll explain in a moment, that reason has everything to do with one bizarre hormone that programs carbs to be stored as fat -- virtually from the moment food touches your lips.
+            </p>
+            <h3><b>But it's not just carbs...</b></h3>
+            <h3><u>This affects proteins and fats too.</u></h3>
+        </div>
+        <div class="light-blue2" id="young-looking">
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-fat-dg.png" loading="lazy" id="fats" class="full-width">
+            <p class="black">
+            The Beach Ready Bites do it all… 
+            <br><br>
+            <p class="hide-desktop mob-center show-mobile mb-0"><b>“Reprogramming” carbs, fats AND proteins <span class="pink">to be burned off immediately.</span></b></p>
+            <span class="hide-mob"><b>“Reprogramming” carbs, fats AND proteins <br></span>
+            <span id="underline4" class="hide-mob">to be burned off immediately.</span> <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-right.png" loading="lazy" id="down-right"></b>
+            <span class="hide-mob"><br><br>
+            Can you imagine it?</span>
+            <br>
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-fat-dg.png" loading="lazy" id="fats-mob" class="full-width">
+            <br>
+            <span class="hide-desktop show-mobile"><b>Can you imagine it?</b></span>
+            Days from now…
+            <br><br>
+            When you step on the scale and you’ve lost a couple pounds.
+            <br><br>
+            And it keeps going, week after week...
+            <br><br>
+            Until you’ve dropped all the weight you’ve had since the birth of your first child.
+            <br><br>
+            When this happens you can finally be free of the shame and insecurity that’s been holding you back…
+            <br><br>
+            And instead, the next time you look in the mirror…
+            <br><br>
+            <b><span class="pink-underline">You see a sexy, confident and younger-looking YOU staring straight back.</span></b><br><br>
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-hair.png" loading="lazy" id="hair" class="full-width">
+            
+            </p>
+            <p class="right-pads black">
+            So don’t be surprised if your friends and family turn green with envy…
+            <br><br>
+            Begging to know your secret...
+            <br><br>
+            Your secret, of course, is that you saw how my journey to fix the fractured relationship with my daughter led to the discovery of the Beach Ready Bites… 
+            <br><br>
+            You took notes on the irrefutable science of how the <b>Beach Ready Bites made me lose all 46 lbs. in record time…</b>
+            <br><br>
+            And you joined the thousands of women who began “chewing the fat away” thanks to what they’ve discovered in this short letter.
+            <br><br>
+            I can’t wait to share ALL of this with you, but first let me introduce myself… 
+            </p>
+        </div>
+    </div>
+        <div id="amy" class="container">
+        <p class="center-t"><img id="amy-img" src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-before-after.png" loading="lazy" class="full-width show-mob"></p>
+        <h1><b>Hi, I’m Amy...</b></h1>
+        <div class="flex">
+            <p class="black">
+                I live in Houston, Texas with my husband and three kids.
+                <br><br>
+                I’m no doctor and I have no fancy degrees.
+                <br><br>
+                <span class="pink"><b>I’m just a normal person who knows what it’s like to 
+                struggle with my own waistline...</span></b>
+                <br><br>
+                And to come out the other side looking even better now, 
+                at 41, than I did in my 20s.
+                <br><br>
+                <b>But this letter isn’t about me.</b>
+                <br><br>
+                <span class="pink-underline">It’s about YOU.</span>
+                <br>
+                <b>Let’s face it…</b><img id="down-arrow" src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow.png" loading="lazy">
+            </p>
+            <p class="center-t"><img id="amy-img" src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-before-after.png" loading="lazy" class="full-width hide-mob"></p>
+        </div>
+        <div id="affect" class="container">
+            <h1><b>Your weight doesn’t just affect you…</b> <br></h1>
+            <h2><span class="blue-green">It affects everyone around you.</span> </h2>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Your children feel embarrassed to be seen with you…</span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Your husband stops showing you off…</span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Your friends crop you out of their photos…</span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>And you even catch strangers at the beach or swimming pool staring
+                <span class="blue-green p-font">(and not in a good way)…</span> </span></p>
+        </div>
+      </div>
+    <div class="container-fluid light-blue2 sec-8">
+        <div class="container" id="happiness">
+            <h3><b><span id="underline5">Worse still</span>, it can feel like your happiness is tied to your weight…</b></h3>
+            <p class="black">
+                <br>
+                At social events….<br><br>
+                You feel ashamed when you see other women look incredible in skinny jeans, even though
+                they’re the same age as you.<br><br>
+                At home…
+                <br><br>
+                You feel a pang of guilt every time you eat something tasty.
+                <br><br>
+                And all over social media….
+            </p>
+            <div class="flex">
+                <p class="black">
+                    You feel <b>like a failure</b> when you see pictures of other women who gave birth, only to reclaim their “pre-pregnancy body” within weeks.
+                    <br><br>
+                    <b><span class="pink-underline">Heck, this is EXACTLY how I felt before I lost all my excess weight thanks to the “Beach Ready Bites”…</span></b>
+                    <br><br>
+                    Even though it had been 11 years since the birth of my last child...
+                    <br><br>
+                    I was still lugging around 46 lbs. of so-called “baby weight”!
+                    <br><br>
+                    I’d look at these skinny moms and wonder: 
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-lbs.png" loading="lazy" id="lbs-"></p>
+            </div>
+        </div>
+    </div>
+    <div class="container" id="maybe">
+        <p class="mb-0">
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-sleep.png" loading="lazy" id="stress">
+            “How can they be so thin after having kids?” <br>
+            “Is something wrong with me?”<br>
+            <span class="pink" id="underline4">“Maybe it is just genetics?”</span><br>
+        </p>
+    </div>
+    <div class="container" id="advice">
+        <h1><b>All the while, your well meaning friends and family<br>
+            keep giving you plenty of advice for YOUR body…</b>
+        </h1><br>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>“Try Keto…”</span></p>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>“Go on Weight Watchers…”</span></p>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>“Skip your first meal of the day…”</span></p>
+        <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>“Go for a run every morning...”</span></p>
+        <div class="flex">
+            <p class="black mb-0">
+                Gosh, I’d tried all that and more…<br></br>
+                Except – NONE of it worked!<br></br>
+                <b>Many times I wanted to give up...</b>
+                <br></br>
+                To bury my head in the sand and just forget about it...
+                <br></br>
+                Forget how my belly was so fat, even my biggest sweaters couldn’t hide it… 
+                <br></br>
+                Forget how my face was being swallowed up by my neck with each passing year…
+                <br></br>
+                And forget how my jeans were straining to hold my legs in…  
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-belly.png" loading="lazy" class="full-width"></p>
+        </div>
+        
+        <div id="kid">
+            <p class="black mb-0">
+                Yet I couldn’t just quit…
+                <br></br>
+                <b>Not when I knew that my embarrassing weight issues weren’t just my issues…</b>
+            </p> 
+        </div>
+        <div class="flex">
+            <p class="black">
+                But were spilling over onto my daughter as well…
+                <br></br>
+                She was no longer her cheerful, happy self…
+                <br></br>
+                She’d grown more distant than I ever thought she would… 
+                <br></br>
+                And frankly, our relationship felt like it was on the <br>
+                brink of breaking down totally.
+                <br></br>
+                So, I wouldn’t -- no, couldn’t -- throw in the towel.
+                <br></br>
+                <b>Yet, little did I know...</b>
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-kid3.png" loading="lazy" class="full-width"></p>
+        </div>
+    </div>
+    <div class="container-fluid sec-9 light-blue2">
+        <div class="container">
+            <h4>One meeting with my daughter’s teacher would soon change everything… </h4>
+            <h1>Setting me on the path to melt away every
+                spare ounce of nagging fat from my body
+                with the <span class="pink">Beach Ready Bites.</span></h1>
+            <p class="black">
+                <br>
+                Early one Thursday afternoon… <br><br>
+                I received a call from my daughter’s 6th grade teacher… <br><br>
+                “This is Mrs. Miller, I’m calling about your daughter. Could you come in for a chat?” <br><br>
+                My stomach dropped… <br><br>
+                Of course, this had to be about the other kids bullying my daughter, right? 
+            </p>
+            <div class="flex">
+                <p class="black">
+                    So I dropped everything and made my way straight to the school. <br><br>
+                    The receptionist waved me in… <br><br>
+                    And within a few minutes, Mrs. Miller greeted me… <br><br>
+                    <b>Except there was one surprise I didn’t expect… </b><br><br>
+                    <span class="pink"><b>Mrs. Miller looked totally different now!</b></span> <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow2.png" loading="lazy" class="hide-arrow"><br><br>
+                    I hadn’t seen her since the parent-teacher 
+                    conference 3 months ago…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-woman-5.png" loading="lazy" class="full-width"></p>
+            </div>
+            <p class="black">
+                And back then she was just like me -- carrying more than a little bit of extra weight around… <br><br>
+                But now? Wow, I barely recognized her… <br><br>
+                She was so slim and looked at least a decade younger! <br><br>
+                <b>This would all make sense moments later… </b><br><br>
+                See, after the usual small talk… <br><br>
+                She sat me down in a meeting room and shocked me with what she said next...  <br><br>
+            </p>
+            <div id="tears">
+                <p>
+                    “Your daughter was in tears again this afternoon. <br>
+                    <span class="pink">This time, the kids stole her sandwiches and
+                    told her that she shouldn’t eat them…</span> <br>
+                    Unless she wanted to end up looking like you.”
+                </p>
+            </div>
+            <p class="black">
+                <br><br>
+                Mrs. Miller didn’t need to explain what the kids meant. This was the worst my daughter’s
+                bullying had gotten to. <br><br>
+                <b>And I felt horrible.</b> <br><br>
+                Because despite everything I'd tried to lose the weight… <br><br>
+                Nothing had worked!
+            </p>
+            <div id="affect" class="container">
+                <h2><b>I had even begun turning to crazy ideas like...</b> <br></h2>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>A shot of apple cider vinegar in the morning…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Drinking lemon-infused water daily…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Brutal exercises only shared in deep corners of the web...</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Eating a single meal per day... </span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Even taking laxatives for a few weeks… </span></p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid sec-10">
+        <div class="container">
+            <div class="flex">
+                <p class="black mb-0">
+                    <b>And through it all, the scale told the same story: <span id="underline5">“Overweight.”</span> </b><br><br>
+                    But before I could finish processing what I’d just been told... <br><br>
+                    <span class="pink"><b>Mrs. Miller pulled out a small tub filled with what looked like candy.</b></span><br><br>
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gummies.png" loading="lazy" class="full-width" id="gummies2">
+                    She told me she’d been in my exact position… <br><br>
+                    <b>The frustrating weight loss stalls… constant dieting… 
+                    intense workouts.</b> <br><br>
+                    And, even worse, how the kids would call her mean names in class. <br><br>
+                    <span class="blue-green p-font green-fsize">(I was starting to think that these kids aren’t so nice!)</span><br><br>
+                </p>
+                <p id="adjust-width center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gummies.png" loading="lazy" id="gummies"></p>
+            </div>
+            <p class="black">
+                Mrs. Miller then said that as the weight continued to cling to her body…<br><br>
+                She felt so embarrassed, she didn’t even want to go into class in the morning!<br><br>
+                “I had two choices. Leave my job or find a way to get rid of my weight once and for all.”<br><br>
+                <b>So she searched everywhere for a way to melt that fat off her body…</b><br><br>
+                Internet forums, Amazon, blogs, YouTube... you name it.<br><br>
+                Yet she kept coming up short.<br><br>
+                Just when she started thinking you had to be blessed with good genetics...<br><br>
+                Or resort to extreme measures like surgery or pharmaceuticals...<br><br>
+                <b>She had her biggest breakthrough yet</b><br><br>
+                <span class="blue-green p-font green-fsize">(and it involved the smal tub on her desk that would soon rescue my relationship with my daughter)!</span><br><br>
+                See, while scrolling through social media late one night...
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid sec-11 light-blue2">
+        <div class="container" id="fb-post">
+            <h1>Mrs. Miller stumbled across a Facebook group 
+                that would lead her straight to the </h1>
+            <h1 class="pink">Beach Ready Bites “miracle”.</h1>
+            <h2 class="blue-green p-font">
+                (And, in just a minute, I’l show you how the Beach Ready Bites wil transform your body in record time.)
+            </h2>
+            <p class="black">
+                This Facebook group was abuzz… <br><br>
+                With women talking about a special type of nutrient…<br><br>
+                <span class="pink-underline">A nutrient that slender celebrities (like Madonna, Katy Perry, Halle Berry and more) swore by.</span>
+            </p>
+            <p class="pink">PENDING IMAGE  MOCK FACEBOOK POSTS</p>
+            <p class="black">
+                See, some of these celebrities were in their 60s… <br><br>
+                And yet still had bodies that made everyday girls like us green with envy! <br><br>
+                But before I could ask Mrs. Miller for the name of this nutrient <br><br>
+                <span class="blue-green p-font green-fsize">(and whether it was inside the tub sitting on her desk)…</span> <br><br>
+                She continued by saying how she couldn’t believe what she was reading… <br><br>
+                “Could one nutrient really be the key to finally melting off your excess fat?” <br><br>
+                So she scoured the internet again, searching for answers...
+            </p>
+        </div>
+        <div id="sterling" class="container">
+            <div class="flex">
+                <div>
+                <h1>And every step of the way, a mysterious
+                        man named Dr. Sterling kept coming up.</h1>
+                <p class="black">
+                    It turns out, this doctor was behind more than 100 of the 
+                    largest health clinics across America… <br><br> 
+
+                    He’d had a ton of success helping women shed the fat -- 
+                    no matter their background… <br><br>
+                </p>
+                </div>
+                <p id="adjust-width center-t"><img id="drsterling" src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-drsterling.png" loading="lazy"></p>
+            </div>
+            <p class="black">
+                And his work on this nutrient had already changed the lives of thousands of women across
+                America (and beyond)...<br><br>
+                Of course, the first thing Mrs. Miller tried was to call one of Dr. Sterling’s clinics…<br><br>
+                <b>But because his work is so successful, she was told that <span id="underline4">the wait list was 18 months long!</span></b><br><br>
+                Yet she didn’t want to waste another day overweight and ashamed of herself…<br><br>
+                She needed to find out exactly what this nutrient was -- and how she could get
+                her hands on it.<br><br>
+                What followed was a long shot…<br><br>
+                Mrs. Miller saw that Dr. Sterling was giving a private talk online over Zoom…
+            </p>
+            <div class="flex">
+                <p class="black">
+                    So she paid the entry fee… <br><br>
+                    And a week later “logged on”... <br><br>
+                    Dr. Sterling’s talk was impressive... <br><br>
+                    <b>But as the talk went on, she realized that the doctor wasn’t going to
+                    reveal what this nutrient was…</b><br><br>
+                    Mrs. Miller knew this would be her LAST shot to discover the truth...<br><br>
+                    And she wasn’t going to let it slip by...<br><br>
+                    So right at the end…<br><br>
+                    When participants were asked if they had any questions for the doctor…<br><br>
+                    She unmuted her microphone and blurted out…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-nutrient.png" loading="lazy" class="full-width"></p>
+            </div>
+            <div id="nutrient">
+                <p class="mb-0">
+                    “Dr. Sterling, I’m in a Facebook group
+                    where women are gushing over a nutrient
+                    that’s keeping celebrities slender…
+                </p>
+                <p class="pink"><span id="underline4">What is this nutrient?”</span></p>
+            </div>
+            <p class="black">
+                <br>
+                A small smile spread across the doctor’s face… <br><br>
+                “I don’t normally answer questions about this,” he told her. <br><br>
+                But after a few seconds of thoughtful silence... <br><br>
+                He asked Mrs. Miller to call his office the next morning…
+            </p>
+        </div>
+    </div>
+    <div class="container sec-12">
+        <h2>The very next day, Mrs. Miller called the doctor’s office... </h2>
+        <h1><b>And that’s when <span class="pink">he revealed the Beach
+            Ready Bites</span> for the first time.</b></h1>
+        <p class="black">
+            At this point, Mrs. Miller told me that her biggest weakness was carbs… <br><br>
+            She just couldn’t resist them… <br><br>
+            And whenever she ate these foods, she’d literally watch them go straight to her hips… <br><br>
+            I had experienced the same thing -- and it had led to the excess 46 lbs. that had torn a rift
+            between me and my daughter… <br><br>
+            Thankfully, Mrs. Miller was used to teaching biology to children… <br><br>
+            So she could explain what the doctor said next in simple terms. <br><br>
+            <b>Dr. Sterling told her that when you eat carbs, your body does two things…</b>
+        </p>
+        <div class="flex">
+            <p class="black">
+                <u>One you already know about – but the other I’m certain you’ve
+                never heard before.</u><br><br>
+                <b>The first thing your body does is produce insulin…</b><br><br>
+                Which is important to know, because as you’ll see shortly,<br><br>
+                insulin is often called the “fat storing hormone”.<br><br>
+                But of course, insulin is just one piece of the puzzle…<br><br>
+                The rest of the puzzle (and the reason why you can’t lose weight
+                no matter what you try) comes down to a little-known enzyme.<br><br>
+                Mrs. Miller explained... <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow.png" loading="lazy">
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cells.png" loading="lazy" class="full-width"></p>
+        </div>
+        <div id="enzyme">
+            <h1>
+                When you eat carbs (or any other food type)
+                your body produces the <b>“Amylase Enzyme”...</b>
+            </h1>
+            <h2>Which has <span class="pink"><b>everything</b></span> to do with your weight loss struggle.</h2>
+            <p class="black">
+                The amylase enzyme (pronounced: am-uh-leys) is produced by the
+                salivary glands in your mouth... <br><br>
+                And it has one very important job: to break down the food you eat. <br><br>
+                Which sounds straightforward… except it isn’t. <br><br>
+                Because as the doctor revealed to Mrs. Miller… <br><br>
+                <b><u>An amylase malfunction is why you can’t shed the excess weight.</u></b> <br><br>
+                See, this discovery was made by researchers from Harvard… <br><br>
+                <span class="blue-green green-fsize p-font">(In fact, pay close attention because if you eat bread and pasta… or drink alcohol… 
+                or have carried excess fat for some time now… I’l show you exactly how this
+                amylase malfunction is behind your weight loss nightmare.)</span>
+            </p>
+            <div class="flex">
+                <p class="black">
+                    <b>These scientists were studying some of the world’s
+                    most popular diets to see which one worked best...</b><br><br>
+                    So they took 692 people…<br><br>
+                    Split them into groups…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-harvard.png" loading="lazy"  class="full-width-img" id="harvard"></p>
+            </div>
+            <p class="black">
+                <u>And assigned them either a “normal” diet… a low-carb diet… or a low-fat diet…</u> <br><br>
+                The researchers then tracked these diets over the next 2-years… <br><br>
+                And were blown away by the results…
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-13">
+        <div class="container">
+            <h3>When it came to the subjects’ who lost weight…</h3>
+            <h2><b><span class="pink">Diet was NOT the biggest needle mover…</span> <br>
+                Instead, those who lost the most fat produced amylase enzymes that functioned correctly. </b>
+            </h2>
+            <p class="black">
+                Seriously - across every diet these researchers studied… <br><br>
+                <b>The one consistent factor among those who “melted the fat off” was that their amylase enzyme worked the way it was supposed to.</b> <br><br>
+                <u>While those who couldn’t shift the weight whatsoever? They had the “amylase malfunction” described by Dr. Sterling… </u> <br><br>
+                The malfunction meant their amylase levels were too low! <br><br>
+                And this study has since been repeated over and over again -- in countries around the world -- and showed the exact same thing. <br><br>
+                Bottom line… <br><br>
+                <b>Your amylase malfunction is the reason why you’re struggling to burn the weight off </b><br>
+                <span class="p-font blue-green green-fsize">(no matter what diet or exercise program you try).</span>
+            </p>
+            <div class="flex">
+                <p class="black">
+                    For the first time in months… <br><br>
+                    I felt like there was hope… <br><br>
+                    Hope that I could shed the weight…  
+                    and repair my crumbling relationship with my daughter.<br><br>
+                    But it felt too good to be true… <br><br>
+                    <b>I had to know WHY this amylase malfunction  
+                    was the reason I couldn’t lose weight.</b> 
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-weightcheck.png" loading="lazy" id="weight-check"></p>
+            </div>
+            <p class="black">
+                Well, that’s exactly what Mrs. Miller asked the doctor…<br><br>
+                The doctor told her that it comes down to how the amylase enzyme influences your insulin…<br><br>
+                Remember how I said that every time you eat your body produces insulin AND amylase?<br><br>
+                Well, amylase’s most important function in your body is to break down food so they can be used as energy…<br><br>
+                But when your amylase levels “malfunction” and decline…<br><br>
+                ...your body can no longer break down food like it used to.<br><br>
+                <span class="p-font blue-green green-fsize">(And again, if you eat ANY wheat product or have been carrying excess weight for a while…
+                    then you need to pay close attention.)</span><br><br>
+                But here’s where things get crazy…<br><br>
+                The doctor told Mrs. Miller that your body doesn’t just throw in the towel…<br><br>
+                <b>Instead, your body goes into overdrive…</b>
+
+            </p>
+        </div>
+    </div>
+    <div class="container sec-14">
+        <h3>When your amylase levels malfunction, your body responds by <b>secreting a tidal wave of the “fat storing hormone”... <span class="pink" id="underline5">insulin.</b></span></h3>
+        <div class="flex">
+            <p class="black">
+                <br>
+                And according to Duke and Ohio State University… <br><br>
+                <b>This blast of insulin is a MAJOR problem -- and the reason 
+                you can’t lose weight no matter what you try.</b><br><br>
+                Because when your insulin is in overdrive, your body not only packs 
+                on every carb you eat as jiggly fat…<br><br>
+                <u>But it makes it virtually impossible to lose any of your excess weight.</u> <br><br>
+                Which means with every month that goes by…<br><br>
+                Your arms pack on another layer of fat…<br><br>
+                Your tummy grows another inch….<br><br>
+                <b><span class="pink-underline">And your neck and chin continue to inflate like a balloon.</span></b><br><br>
+                By this point, Mrs. Miller could tell I was more than a little surprised by 
+                what she had just told me..
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-baloon.png" loading="lazy" id="baloon"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-duke.png" id="duke" class="full-width"></p>
+        </div>
+        <div class="container list-points">
+            <h2>So she repeated the main points...<br></h2>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Your malfunctioning amylase levels force your body to produce a tidal wave of insulin<br><span class="blue-green p-font">(AKA the “fat storing” hormone)…</span></span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>This abundance of insulin forces your body to store food as fat…</span></p>
+            <p class="list-p mb-0"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>And critically, it makes your body outright refuse to burn off your excess weight…</span></p>
+            <br><h5><b>Or to say it another way…</b></h5>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-15">
+        <div class="container">
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-amylase.png" loading="lazy" id="sandwich" class="show-mob full-width-img">
+            <h2><b>When your amylase levels plunge… </b><br>
+                Every carbohydrate you eat is “programmed”<br>
+                to be turned into suffocating fat <br>
+                <span class="p-font blue-green green-fsize">(that clings to your body).</span>
+            </h2>
+            <p class="black">
+                THIS is the reason why it feels impossible to lose even a couple lbs. right now.
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>It doesn’t matter how much you exercise…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>How much you diet…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>Even what diet you go on…</span></p>
+
+            </p>
+            <div class="flex">
+                <p class="black">
+                    As amylase levels plummet, your body grabs onto your 
+                    excess fat and doesn’t let go. <br><br>
+                    I mean, sure you can lose a few pounds… <br><br>
+                    But if you want to reach the slender body of your youth… <br><br>
+                    You must deal with the heart of the issue: 
+                    increasing your amylase levels to “reprogram” every carb you eat.
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-sandwich.png" loading="lazy" id="hide-sandwich"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-amylase.png" loading="lazy" id="sandwich" class="hide-desktop"></p>
+            </div>
+            <p class="black">
+                Now, I knew Mrs. Miller would show me the delicious way to “reprogram” the food I ate…<br><br>
+                <b>Allowing my body to burn the excess fat off…</b><br><br>
+                But first I had to be sure that this was the reason why I had grown so large, my daughter was now being bullied for it...
+            </p>
+            <div class="box-s">
+                <div id="amylase">
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-carbs2.png" class="full-width-img" loading="lazy" id="carbs2"></p>
+                    <h3 class="mob-center"><b><span class="pink" id="underline2">“How do I know </span>if my amylase levels are low?”</b></h3>
+                    
+                    <p class="black">
+                        Mrs. Miller told me there’s many reasons for low amylase levels…<br><br>
+                        But only two you need to care about…<br><br>
+                        The first reason for your low amylase levels is wheat…<br><br>
+                        <b>Studies have shown that wheat is an “inhibitor” of the amylase enzyme…</b><br><br>
+                        And given that wheat is in bread… pasta… muffins… cereals… baked goods… even alcohol…<br><br>
+                        <u>It can be almost impossible to stop your amylase levels from taking a nosedive.</u><br><br>
+                        Yet we all know people who eat lots of wheat and stay slim… so what gives?<br><br>
+                        The truth is, a handful of people can eat wheat and keep their amylase levels normal.<br><br>
+                        However… <br><br>
+                        There’s one cause of an amylase malfunction you can’t avoid…<br><br>
+                        This unavoidable reason is carrying excess weight (especially year after year).<br>
+                        See… <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow3.png" loading="lazy" id="down-arrow3">
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container sec-16">
+        <div id="flatlines" class="light-blue2">
+            <h3>The science shows that <b>being <br>overweight <span class="pink">flatlines your amylase levels.</span></b></h3>
+            <p class="black">
+                This creates a vicious cycle…<br><br>
+                Where the lower your amylase levels, the more weight you gain…<br><br>
+                And the more weight you gain, the lower your amylase levels fall.<br><br>
+                <b><span class="pink-underline">Keeping you fat no matter what exercise or diet you try.</span></b><br><br>
+                This revelation sent me reeling...<br><br>
+                I couldn’t believe it...<br><br>
+                I felt like I finally understood why I’d been carrying around an extra 46 pounds…<br><br>
+                <b>My low amylase levels were stopping me from burning off the weight.</b><br><br>
+                Of course, the solution seemed obvious…<br><br>
+                If I wanted to “reprogram” the food I ate…<br><br>
+                So my body would burn the fat off, instead of hanging onto it…<br><br>
+                Then I had to bring my amylase levels back to life...
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid sec-17 light-blue3">
+        <div class="container">
+            <h3>So I looked again at the tub of candy sitting <br>
+            on Mrs. Miller's desk, and said…<br>
+            <b><span class="pink">“So let me guess, they’re packed with Amylase, right?”</span><br>
+            I couldn’t have been more wrong!</b></h3>
+            <p class="black">
+                <br>Mrs. Miller told me you can’t just take an amylase supplement to reignite your body’s natural fat-burning potential. 
+                <br><br>
+                See, the doctor had explained that as soon as the amylase enzyme reaches your stomach…
+            </p>
+            <div class="flex">
+                <p class="black mb-0">
+                    <b>The stomach acid completely halts the enzyme.</b><br><br>
+                    So if you were trying to increase your own amylase levels…<br><br>
+                    You’d need to find a way to get the amylase supplement 
+                    through your stomach acid.<br><br>
+                    In other words, you’d need to do the “impossible”.<br><br>
+                    This is why an amylase supplement is a waste of money.<br><br>
+                    <b>But how did this make sense? After all, we secrete amylase 
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-neck2.png" loading="lazy" class="show-mob">
+                    from the salivary glands in our mouth...</b><br><br>
+                    Once again, I felt like I'd hit a dead-end…<br><br>
+                    Like I’d never become someone my daughter could feel proud of.
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-neck.png" loading="lazy" class="hide-desk">
+            </div>
+            <p class="black">
+                <br>
+                That’s when Mrs. Miller smiled at me…<br><br>
+                <b>She told me that your body produces more of the amylase enzyme near your small intestine…</b><br><br>
+                And that 95% of carbohydrates you eat are actually broken down here…
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-18">
+        <div class="container">
+            <h1 class="center-t">So to end your “amylase malfunction”...<br>
+                <b>You’d only need to find a way to<br>
+                <span id="underline6">create amylase in your small intestine.</span></b>
+            </h1><br>
+            <p class="black">Mrs. Miller opened the tub on her desk and tipped out a handful of delicious-looking candy…<br><br>
+                “This is what makes Dr. Sterling’s breakthrough so miraculous!”</p>
+            <div class="flex">
+                <p class="black">
+                    <b>See Dr. Sterling had seemingly done the impossible… </b><br><br>
+                   <b> He’d figured out how to get amylase to 
+                    survive your stomach acid… </b><br><br>
+                    It took many sleepless nights… <br><br>
+                    Years of trial and error… <br><br>
+                    And each time he hit a stonewall, he’d start over. <br><br>
+                    Eventually he had a breakthrough that changed the lives of thousands
+                    of women just like you and me!
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-stomach.png" loading="lazy" class="full-width"></p>
+            </div>
+            <div class="box-s living-nutrients">
+                <h2 class="center-t"><b>He discovered a category of “living nutrients”</b> – <br>
+                    that could not only survive the harsh stomach acid – <br>
+                    but also <b><span id="underline6">deliver amylase directly to where it’s needed!</span></b></h2>
+                <p class="black">
+                    <br>
+                    See, these “living nutrients” are used by many of the most slender and confident women in Hollywood… <br><br>
+                    And despite not going “mainstream”... <br><br>
+                    These “living nutrients” have been studied by scientists from around the world…
+                </p>
+                <div class="flex">
+                    <p class="black">
+                        Take this study from <b>Cambridge University…</b> <br><br>
+                        Researchers gave one of these “living nutrients” to 220 women… <br><br>
+                        After just 12 weeks… <br><br>
+                        <u>They lost about 8.5% of their belly fat.</u>
+                    </p>
+                    <p class="center-t">
+                        <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cambridge.png" loading="lazy" id="cambridge">
+                    </p>
+                </div>
+                <p class="black">
+                    Which may not sound like much, but trust me… it’s a HUGE amount of weight loss.
+                    In fact, that’s the equivalent of effortlessly shedding 4 inches of stubborn belly fat
+                </p>
+       
+                <p class="black w-loss">
+                        <span class="blue-green p-font green-fsize">(so you can finally fit into your old jeans again).</span><br><br>
+                        But you know what’s even more shocking? <br><br>
+                        The placebo group – who followed the exact same
+                        diet and exercise program – didn’t lose any fat whatsoever. <br><br>
+                        Which explains why the researchers declared: that this living
+                        nutrient triggered a “significant reduction in abdominal visceral fat”...<br><br>
+                        … with no reported side effects!<br><br>
+                        Mrs. Miller could clearly see what this meant to me and how much hope
+                        it gave me that I could repair the relationship with my daughter. 
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid sec-19">
+        <div class="container">
+            <div class="box-s light-blue" id="studies">
+                <h2 class="center-t">So she shared a few more studies the doctor had shown her…<br>
+                    <b>Each one was more impressive than the last...</b>
+                </h2>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>A study published in the <b>British Journal of Nutrition</b> found that a “living nutrient”
+                    helped people consistently <b>lose 48% more weight</b> compared to a placebo group...</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>In one randomized, double-blind study the researchers were astounded by the dramatic weight loss and concluded that their living nutrients were...
+                    <b>“capable of inducing shifts in body composition [by] favoring fat oxidation 
+                    over fat storage”… </b></span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>And by the way, “fat oxidation” is another way to say “fat burning” – so this study shows that living nutrients can reprogram the food you eat to get burned off instead of stored as clingy fat.</span></p>
+                <p class="list-p mb-0"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>While in another study published by the National Institute of Health, a “living nutrient” had done such a good job of burning the fat off that the researchers concluded that it triggered… <b>“significant reductions in abdominal visceral and subcutaneous fat areas, as well as body weight, BMI, waist and hip circumferences, and body fat mass.”</b></span></p>
+                <p>
+                    <br>
+                    Amazing isn’t it?<br><br>
+                    The doctor thought so too, but he didn’t want to settle...
+                </p>
+            </div>
+            <div class="chart">
+                <h1 class="center-t">
+                    It became the doctor’s mission to find the BEST
+                    possible “living nutrient” on the planet…<br>
+                    <b>That could “reprogram” the food you eat…<br>
+                    <span class="pink" id="underline4">To melt the fat off for good.</span></b>
+                </h1><br>
+                <p class="black">
+                    He looked far and wide…<br><br>
+                    Consulted with experts from around the world...<br><br>
+                    And that’s when he found one “living nutrient” that can melt away fat faster than butter in a
+                    frying pan…<br><br>
+                    <b>How so? Because this wonderful “living nutrient” has been proven to ramp up amylase
+                    production by a staggering 398%!</b>
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-chart.png" loading="lazy" class="hide-arrow" id="chart-box">
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-amylase-production.png" loading="lazy" id="production">
+                </p>
+                <p class="black">
+                    Imagine it… <br><br>
+                    Days or weeks from now… <br><br>
+                    This “living nutrient” could help melt away lb. after lb. of stubborn fat from your tummy… <br><br>
+                    Deflate your arms and legs… <br><br>
+                    <b>So you can fit into your old clothes again…</b>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-20">
+        <div class="container">
+            <h1 class="center-t">At this point, <b>Mrs. Miller handed me the tub</b>
+                that had been sitting on her desk. </h1>
+            <p class="black">
+                <b>She told me they were called “Beach Ready Bites”... </b><br><br>
+                <u>And it contained the “living nutrient” that could finally let me lose the weight for good.</u> <br><br>
+                I couldn’t help but think about my daughter… <br><br>
+                And I felt more determined than ever to lose my 46 lbs. of excess fat. <br><br>
+                
+            </p>
+            <div class="flex">
+                <p class="black">
+                    So I took the Beach Ready Bites and thanked Mrs. Miller… <br><br>
+                    When I got home, I took out my calendar… <br><br>
+                    And marked a big “X” on a date just two months away. <br>
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-calendar.png" loading="lazy" id="gummies2" class="full-width"><br>
+                    On this date, I would be attending my friend’s wedding… <br><br>
+                    And I had decided that I would try to burn off as much 
+                    fat as possible by then. <br><br>
+                    So each day, I made <b>extra sure</b> to take two of the
+                    Beach Ready Bites with each meal.
+                </p>
+                <p class="center-t">
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-calendar.png" loading="lazy" class="hide-arrow">
+                </p>
+            </div>
+            <p class="black">
+                Breakfast… lunch… and dinner... just as the doctor had told Mrs. Miller. <br><br>
+                Oh boy, was that easy... <br><br>
+                <b><u>They tasted delicious, were super soft and really easy-to-swallow.</u></b> <br><br>
+                Honestly, as the wedding day came closer and closer… <br><br>
+                I could feel my old clothes starting to hang off me…
+            </p>
+            <div class="flex">
+                <p class="black mb-0">
+                    And when I stepped on the scale, the day before the wedding… <br><br>
+                    I knew I had lost weight, but I was blown away by just 
+                    how much I had lost…<br><br>
+                    I’d burnt off all 46 lbs. of gross fat!<br><br>
+                    I almost couldn’t believe it… <br><br>
+                    <span class="p-font blue-green green-fsize">(In fact, I had a mini-crisis… because the dress I’d bought
+                        for the wedding was now 4 sizes too big for me!)</span><br><br>
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-girldress.png" loading="lazy" class="full-width"></p>
+            </div>
+            <p class="black">
+                <b>But this wasn’t the first shock I’d had during my weight loss…</b> <br><br>
+                About a month earlier, I was making dinner when my husband came home from work…<br><br>
+                Usually he’d spend time playing with our children until food was ready…<br><br>
+                But this time he surprised me…<br><br>
+                I must’ve been wearing something which showed off my slimmer figure…<br><br>
+                Because he came straight over to me, hugged me from behind and squeezed me tight…
+            </p>
+            <div class="box-s" id="first-time">
+                <h2 class="center-t">For the first time since we first got married,<br>
+                    <b>it was like he had fallen under my spell again!</b></h2>
+                <h4 class="center-t blue-green p-font">(And that night, we had the most fun we’d had in years… if you know what I mean.)</h4>
+                <p><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-feet2.png" loading="lazy" class="full-width-img" id="feet2"></p>
+                <p class="black">
+                    <br>
+                    My staggering weight-loss was changing my life before my eyes…<br><br>
+                    Sure, I was worried I’d stall and the scale would rise again -- but it didn’t…
+                </p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>Instead my arms continued to shrink down…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>My legs toned up…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>And my belly slimmed down… </span></p>
+                <p class="black">
+                    All without lifting heavy weights or torturing myself with boring kale salads. <br><br>
+                    It was all thanks to the Beach Ready Bites… <br><br>
+                    That “reprogrammed” the food I ate… <br><br>
+                    To allow my body to do what it wants to: <b><span id="underline4">burn the weight off, effortlessly.</span></b> <br><br>
+                    But the moment that I’ll cherish the most?
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <div class="container-fluid sec-20">
+        <div class="container">
+            <h1 class="center-t"> <b>
+                I went into my daughter’s school for career day… <br>
+                <span class="pink">and was <span id="underline5">STUNNED</span> by what happened next.</span></b>
+            </h1><br>
+            <p class="black">
+                I was going to talk about my career as a nurse. <br><br>
+                But truthfully, I wanted to show the children that had bullied my daughter…
+            </p>
+            <div class="flex">
+                <p class="black">
+                    That I wasn’t the “fatty” they thought I was…<br><br>
+                    When I stepped into that classroom, wearing a summer dress…<br><br>
+                    And before I’d even got myself ready to begin my talk…<br><br>
+                    One of the kids shouted at me…<br><br>
+                    <b>“She looks like a princess!”</b><br><br>
+                    Before another girl in the class blurted out…<br><br>
+                    <u>“She’s so pretty!”</u>
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-kid2.png" loading="lazy" class="hide-arrow"></p>
+            </div>
+            <p class="black">
+                Mrs. Miller smiled at me -- she knew the kids weren’t expecting me to be so slim…<br><br>
+                But just before Mrs. Miller quieted the room…<br><br>
+                My daughter blurted out…<br><br>
+                “Mommy, I told them you’re not a “jell-o-belly!”<br><br>
+                I felt SO happy…<br>
+                <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-kid2.png" loading="lazy" id="gummies2" class="full-width">
+                <br>
+                <b>My daughter looked more happy and confident than I’d seen her in months…</b>
+            </p>
+            <div class="flex">
+                <p class="black">
+                    And when she looked at me, smiling from ear to ear, <br><br>
+                    I knew our relationship was back on track. <br><br>
+                    So you bet, for the first time in my post-pregnancy life… <br><br>
+                    <span class="pink"><b>I was actually proud of who I was and how I looked!</b></span><br><br>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-proud.png" loading="lazy" class="full-width show-mob"></p>
+                    But this wasn’t the end of my journey…<br><br>
+                    See, that wonderful day at my daughter’s school
+                    really got me thinking...<br><br>
+                    There must be a LOT of women just like me…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-proud.png" loading="lazy" class="full-width hide-desktop"></p>
+            </div>
+            <div id="proud">
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span><b><u>Women who have carried excess weight and shame for years…</u></b></span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>Who had tried everything from crazy diets to torturous exercise...</span></p>
+            <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>And who could truly see their lives changed with the Beach Ready Bites.</span></p>
+            </div>
+            <div class="flex">
+                <p class="black">
+                    So what I did next felt so right… <br><br>
+                    I got Mrs. Miller to give me the doctor’s number… <br><br>
+                    That evening, I called him and explained everything… <br><br>
+                    <u>I told him how his Beach Ready Bites had rescued my relationship
+                    with my daughter…</u><br><br>
+                    <b>That I’d lost 46 lbs. of fat that would never budge before…</b><br><br>
+                    And how, thanks to him, I now look and feel like a woman half my age…<br><br>
+                    Then, over the next 15 minutes… 
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-46lbs.png" loading="lazy"></p>
+            </div>
+            <div class="box-s" id="doctor">
+                <h1 class="center-t">
+                    I convinced the doctor to <b>make the Beach Ready Bites
+                    available to women <span id="underline2">EVERYWHERE</span> -- </b>
+                    there was just one problem… 
+                </h1><br>
+                <p class="black">
+                    <b>Making the Beach Ready Bites is a long and difficult process…</b><br><br>
+                    In fact, this is part of the reason why many celebrities used these “living nutrients”...<br><br>
+                    While plenty of normal folk like you and me haven’t even heard of them.<br><br>
+                    As the doctor explained to me...<br><br>
+                    “For the Beach Ready Bites to work, they need to
+                    deliver their magic to the places that matter most.”<br><br>
+                    See, to experience incredible weight loss…
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid light-blue sec-21">
+        <div class="container f-style">
+            <h3 class="center-t"><b>He told me that it’s not just about getting the right living nutrient.</b></h3>
+            <h1 class="center-t">It’s about how much of that nutrient is
+                actually <span class="pink"><b>absorbed by the body.</b></span></h1>
+            <h3 class="p-font blue-green center-t">(And this is precisely why you can’t just place the “living nutrient”
+                inside a capsule or pill.)</h3><br>
+            <div class="flex">
+                <p class="black"><b>See, when it comes to capsules or pills… </b><br><br>
+                    <u>They’re not only hard to swallow, easy-to-forget and taste disgusting…</u> <br><br>
+                    They’re also not always the best way to deliver nutrients 
+                    to be absorbed by your body.<br><br>
+                    And if your body doesn’t absorb the nutrient… <br><br>
+                    Then your problems will continue, month after month… <br><br>
+                    Which is why the doctor told me about a special process he uses… <br><br>
+                    <b>That is proven to <span id="underline4">increase absorption of nutrients by 168%.</span></b>
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-meds.png" class="full-width-img" loading="lazy"></p>
+            </div>
+            <p>
+                “How do you do that?” I asked him. <br><br>
+                First, you need to source the highest quality version of this “living nutrient”…<br><br>
+                Which means ensuring your supply of the “living nutrient” is kept at the right temperature, not
+                exposed to any contamination and is ultra-potent.<br><br>
+                Then you need to mix it with an “encapsulating” edible gelatin…<br><br>
+                This part is REALLY important, because you have to mix them together in a precise ratio…<br><br>
+                In order for the “living nutrient” to be protected from your stomach acid and to be released in
+                your gut.<br><br>
+                Next, you have to stir it right… heat it right… and cool it right…<br><br>
+                And that’s how you end up with the Beach Ready Bites!<br><br>
+                Of course, if this sounds complex…<br><br>
+                <b>That’s because it is.</b><br><br>
+                In fact, the doctor said that it is incredibly difficult to
+                produce enough <br>of the Beach Ready Bites for just the patients at his clinics.<br><br>
+                Which was a problem…
+            </p>
+            <div class="flex">
+                <p>
+                    How could we bring the Beach Ready Bites to women like you and me,
+                    if the doctor was already having a hard time keeping up with demand?<br><br>
+                    Well, after much back and forth…<br><br>
+                    We decided to team up with the only manufacturer in America
+                    who could produce the Beach Ready Bites to the doctor’s high
+                    standards, <b>YUMM by Science Natural Supplements.</b><br><br>
+                    Which means, that starting today...
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-yumm.png" class="full-width-img" loading="lazy"></p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid sec-22">
+        <div class="container f-style">
+            <h2 class="center-t">You Can Burn Off All Your Excess Weight… Effortlessly… </h2>
+            <h2 class="center-t"><b><span class="pink" id="underline7">Dropping Dress Size after Dress Size…</span><br>
+                With the Beach Ready Bites!</b></h2>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gummies-6.png" loading="lazy" id="gummy-banner"></p>
+            <p>
+                <br>
+                    <b>By enjoying just two of the Beach Ready Bites with every meal…</b><br><br>
+                    You can join the thousands of women inside Dr. Sterling’s private clinic…<br><br>
+            </p>
+            <div class="flex">
+                <p>
+                    Who have finally targeted the root of their weight loss struggles…<br><br>
+                    By addressing their amylase malfunction, and…<br><br>
+                    <b>“Reprogramming” every piece of food you eat to be burned
+                    off instantly.</b><br><br>
+                    <u>For the first time in your life, you can finally shed the lbs. of fat
+                    that cling to your body – without any special dieting or exercise.</u><br><br>
+                    This means…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-woman-6.png" loading="lazy" class="hide-arrow full-width"></p>
+            </div>
+            <div id="proud">
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>… toning up your arms and legs – so you look gorgeous in any dress…</span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>… shrinking the fat around your belly, helping you feel confident <span class="blue-green p-font">(even in a bikini)…</span></span></p>
+                <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>… and deflating the fat around your neck and chin, making you look ten years younger.</span></p>
+            </div>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-woman-6.png" loading="lazy" id="gummies2" class="full-width"></p>
+            <p>
+                All this and more is possible thanks to the “living nutrient” in the Beach Ready Bites.<br><br>
+                And listen…<br><br>
+                This “living nutrient” is so good at addressing your amylase malfunction…<br><br>
+                That it’s really ALL you need.<br><br>
+                Which is why we haven’t included any “filler” ingredients inside the Beach Ready Bites.<br><br>
+                See unlike other “weight loss supplements”, which are packed to the brim with God-knows
+                what…<br><br>
+                We simply focused on what matters: the one simple fat-burning nutrient that’s backed by
+                Harvard and Stanford
+            </p>
+            <div class="flex">
+                <div>
+                <p>Which means each Beach Ready Bite has…<br>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>No laundry-list of unnatural and synthetic ingredients…</span></p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cross-icon2.png" loading="lazy"></span> <span>And no harsh fillers, chemicals or preservatives.</span></p><br>
+                    Better yet...<br><br>
+                    <b>It’s produced in GMP-certified, pharmaceutical grade manufacturing facility…</b><br><br>
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gmp.png" loading="lazy" class="full-width-img" id="gummies2">
+                    <u>Following the one process that’s proven to increase bioavailability</u><br><br>
+                    <span class="blue-green p-font green-fsize">(and therefore absorption) by 168%</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow4.png" loading="lazy" class="hide-arrow"><br><br>
+                    That’s why I’m confident the Beach Ready Bites WILL work for you.<br><br>
+                    In fact, just days from now…
+                </p></div>
+                <P class="center-t"><img id="gmp-img" src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gmp.png" loading="lazy" class="hide-arrow"></p>
+            </div>
+            <div class="box-s">
+                <h2 class="mob-center"><b>You’ll first notice <span class="pink"> how 
+                    energetic and alive you feel.</span></b></h2>
+                <p>Because the Beach Ready Bites are turning your food 
+                    into energy -- and not fat…<br><br>
+                    Then, you’ll watch in amazement as the numbers on your 
+                    scale drops lower and lower. <br><br>
+                    With each passing day, it’ll feel like the fat is draining from your belly…<br><br>
+                    <b>Your arms and legs look slimmer…</b><br><br>
+                    And you feel more radiant than ever before.<br><br>
+                    But just wait a few weeks – because that’s when your 
+                    weight loss journey gets really fun…<br><br>
+                    See, you’ll start getting almost daily reminders of the 
+                    fat you’ve lost… <br><br>
+                    For example…
+                </p>
+                <div id="proud">
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>You’ll find yourself slipping into cars, restaurant booths or airplane seats like it’s nothing…</span></p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>Guys half your age will notice you again, maybe even hold doors open for you...</span></p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>Even old friends might even stop you on the street, shower you in compliments and
+                        ask: “what’s your secret?”</span></p>
+                    <p class="list-p"> <span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-check-icon.png" loading="lazy"></span> <span>You’ll smile at the surprise on their face when you tell them the truth…</span></p>
+                </div>
+                <p>
+                    All you did was take two of the Beach Ready Bites with each meal…<br><br>
+                    And let the “living nutrient” allow your body to do what it wants to do: burn fat.<br><br>
+                    Sounds great, right?
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2">
+        <div class="container f-style">
+            <h1 class="center-t breakthrough"><b>By this point, you might be wondering
+                <span class="pink"><br>“How do I get my hands on the Beach
+                Ready Bites breakthrough?”</span></b>
+            </h1>
+            <p>
+                I’d love to see this breakthrough in the hands of every women who needs it someday soon…<br><br>
+                But right now the reality is a bit different.<br><br>
+                As we’ve just talked about, the process to make the Beach Ready Bites is difficult and time
+                consuming…<br><br>
+                While our partner <b>YUMM by Science Natural Supplements</b> is doing a wonderful job of
+                producing the Beach Ready Bites in their state-of-the-art facility…
+            </p>
+            <div class="flex flex-d">
+                <p>
+                    Using the special, proprietary process that Dr. Sterling insists on...<br><br>
+                    <span class="pink-underline"><b>We STILL can only produce small amounts of this breakthrough at a time.</b></span><br><br>
+                    Plus, YUMM by Science Natural Supplements is the only manufacturer
+                    even capable of fulfilling this process…<br><br>
+                    Which means there’s a hard limit on the number of bottles
+                    of the Beach Ready Bites we can ship out at a time…<br><br>
+                    So to be clear: “out of stocks” are always a risk.<br><br>
+                    Sure we could cut corners like many others do…<br><br>
+                    And produce the Beach Ready Bites using a cheaper and faster process…
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-one-time.png" loading="lazy" class="hide-desk">
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-yumm-one.png" loading="lazy" class="show-mob full-width">
+                </p>
+            </div>
+            <p>
+                <b>But the truth is, this wouldn’t address your amylase malfunction –
+                and your weight would stay stuck forever.</b><br><br>
+                So that means we’re forced to reserve bottles of the Beach Ready Bites for those who are
+                most serious about restoring the slender body of their youth…<br><br>
+                Since you're still here…<br><br>
+                Reading these very words on your screen right now – I know you’re one of them…<br><br>
+                But just to be sure, if you could answer “YES” to the next two questions...<br><br>
+                I’ll show you how you can get your hands on the miraculous Beach Ready Bites TODAY.<br><br>
+                Ready?<br><br>
+                Good...
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid sec-25">
+        <div class="container f-style">
+            <h1 class="center-t"><b>Do you promise to use the Beach Ready
+                Bites <span class="pink">every single day?</span></b></h1>
+            <p>
+                Within days...<br><br>
+                You’ll sleep soundly through the night and wake up bursting with energy…<br><br>
+                That’s how you know your food is now working for you -- thanks to the Beach Ready Bites.<br><br>
+                <u>Within weeks, you’ll be dropping pounds after pound of nagging fat – faster than you ever
+                thought possible…</u><br><br>
+                Which is obviously great...<br><br>
+                But compared to the smile on your face when you slip into your old jeans with ease?<br><br>
+                What about when you walk past the mirror and see a slim, sexy version of you staring right
+                back?<br><br>
+                Or even when your husband hugs you and you feel like you disappear into his arms?
+            </p>
+            <div class="flex">
+                <p>
+                    <b>That’s priceless.</b><br><br>
+                    But like all good things, it takes consistency.<br><br>
+                    In other words, you must take two of the Beach
+                    Ready Bites with every single meal.<br><br>
+                    <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-one-bottle.png" loading="lazy" id="gummies2" class="full-width bot-mobile"><br>
+                    If you don’t see yourself being that committed,
+                    then as harsh as it sounds…<br><br>
+                    Please leave the remaining bottles for women who are
+                    truly committed to getting into the best shape of their lives.<br><br>
+                    But from the bottom of my heart…<br><br>
+                    I truly hope -- and pray -- you’re one of these committed women.<br><br>
+                    <b>If so, I have one last question for you…</b><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow.png" loading="lazy" class="hide-arrow">
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-one-bottle.png" loading="lazy" class="hide-arrow"></p>
+            </div>
+            <div class="box-s">
+                <h1 class="center-t committed"><b>Are you committed to seeing the results not just this
+                    week - <span class="pink" id="underline4">but over the long term?</span></b></h1>
+                <div class="flex">
+                    <p id="long-term"><b>I’m going to be a little raw with you...</b><br><br>
+
+                        The Beach Ready Bites have honestly transformed my life.<br><br>
+                        
+                        Before this little miracle came into my life I felt trapped by my weight.<br><br>
+                        
+                        It defined who I was and how others saw me.<br><br>
+                        
+                        <b>Truth is, I was not a happy person and felt ashamed of myself.</b><br><br>
+                        
+                        But now that I’ve lost 46 lbs., reclaimed my youthful body and 
+                        restored the fractured relationship with my daughter…<br><br>
+                        
+                        <b>I truly feel proud of the way I look.</b><br><br>
+                        
+                        Each morning I wake up energized to tackle the day…<br><br>
+                        
+                        Loving how I look and feel.<br><br>
+                        
+                        <u>So I know it can do the same for you.</u><br><br>
+                        
+                        But as we just spoke about – consistency matters more than anything.<br><br>
+                        
+                        Of course, a single bottle can make a HUGE difference…<br><br>
+                        
+                        You’ll drop more weight than you ever thought possible!<br><br>
+                        
+                        But the truth is the very BEST results take time…<br><br>
+                        
+                        And the longer you use the Beach Ready Bites for the better!
+                    </p>
+                    <p class="center-t three-women"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-three-women1.png" loading="lazy" class="hide-desk">
+                        <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-women-7.png" loading="lazy" class="show-mob">
+                    </p>
+                </div>
+                <p class="nine-months">
+                    It’s been 9 months since that career day at my daughter’s school…<br><br>
+                        
+                        Yet I’ve taken the Beach Ready Bites every single day…<br><br>
+                        
+                        And without a doubt my results are still getting better and better!<br><br>
+                        
+                        My tummy is as flat as an ironing board…<br><br>
+                        
+                        And I look so lean… so toned… my friends tell me 
+                        I belong on a billboard!<br><br>
+                        
+                        <b><span class="pink-underline">So I truly have no doubt you’ll have the same results.</span></b><br><br>
+                        
+                        For that reason, I highly recommend you make the smart decision 
+                        to secure a 3-month supply of the Beach Ready Bites.<br><br>
+                        
+                        But if you want the type of results most women can only dream of… <br><br>
+                        
+                        If you want to “WOW” everyone who sees you, every single day for the rest of your life…<br><br>
+                        
+                        <span class="pink"><b>Then the smartest choice you could make today is to secure a full 6-month 
+                        supply of the fat-incinerating Beach Ready Bites.</b></span>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-24">
+        <div class="container f-style">
+            <h1 class="center-t">If you answered <span class="pink" id="underline8"><b>“YES”</b></span> to both questions then
+                I’ve got exciting news for you…<br>
+                <b>You qualify for a special one-time discount!</b>
+            </h1>
+            <p><br>This isn’t about making a profit for me or Dr. Sterling…<br><br>
+                The fact of the matter is that you could make your own Beach Ready Bites…<br><br>
+                If you were willing to spend the tens of thousands of dollars on equipment,<br><br>
+                gold-standard facilities and perfecting the doctor’s process.
+            </p>
+            <div class="flex">
+                <p>For most women, this isn’t possible.<br><br>
+                <u>But you still deserve to change your life…</u><br><br>
+                <b>To melt the fat off, effortlessly…</b><br><br>
+                So the doctor and I have committed to making the
+                Beach Ready Bites available at a price ANYONE can afford.<br><br>
+                Which means you don’t have to spend anywhere near $500 for
+                a single tub of the Beach Ready Bites…<br><br>
+                Or even $250…</p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-certified.png" loading="lazy" class="hide-arrow"> <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gmp-guarantee.png" class="full-width" id="gummies2"></p>
+            </div>
+            <p>
+                In fact, thanks to our amazing partner at YUMM by Science Natural Supplements
+                helping us to keep costs low…<br><br>
+                <b>You can secure the Beach Ready Bites at a one-of-a-kind discount.</b>
+            </p>
+            <div class="flex">
+                <p>How big is this discount?<br><br>
+                    Truthfully, we want to help you make the right decision…<br><br>
+                    To commit to using the Beach Ready Bites over the long term…<br><br>
+                    So the more you order today, the bigger the discount.<br><br>
+                    Don’t delay...</p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-discount.png" loading="lazy" class="full-width"></p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid sec-23">
+        <!--sales section-->
+        <h1 class="center-t black"><b>Click the button below right now and<br>
+            choose the 6-bottle package</b><br>
+            <span class="pink p-font">(or whichever package is right for you)</span>
+        </h1>
+        <div class="sales container">
+            <!--one bottle-->
+            <div class="sales-box1 sales-box1-1 light-gray">
+                <p class="month-supply">1 Month Supply</p>
+                <p class="options"><span>Sample Option</span><span class="qty-bot">1 Bottle</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-1.png" loading="lazy" alt="Gummies One Bottle" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$59.00 USD </b></p>
+                <p class="saving-price">Savings: $100.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=761"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--Six bottles-->
+            <div class="sales-box2 light-gray">
+                <p class="month-supply">6 Months Supply</p>
+                <p class="options"><span>Biggest Savings</span><span class="qty-bot">6 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-6.png" loading="lazy" class="six-bot"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$29.00 USD </b></p>
+                <p class="saving-price">Savings: $720.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=763"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--three bottles-->
+            <div class="sales-box1 sales-box3 light-gray">
+                <p class="month-supply">3 Months Supply</p>
+                <p class="options"><span>Most Popular</span><span class="qty-bot">3 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-3.png" loading="lazy" alt="Gummies Thee Bottles" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$39.00 USD </b></p>
+                <p class="saving-price">Savings: $330.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=762"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+        </div>
+        <div class="container f-style">
+            <div class="flex">
+                <p>
+                    As soon as you’ve made the selection…<br><br>
+                    You’ll be taken to a secure checkout page…<br><br>
+                    Simply fill out the encrypted form with your details…<br><br>
+                    And we'll begin processing your order.<br><br>
+                    <span class="pink"><b>Your order of the Beach Ready Bites will then be shipped
+                    and arrive on your doorstep within 3-5 business days from now.</b></span>
+                </p>
+                <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-expedited.png" class="full-width-img" loading="lazy"></p>
+            </div>
+            <p>
+                <b>Which means, you’re just days away from beginning the most incredible journey
+                of your life…</b><br><br>
+                A journey where you finally say goodbye to baggy sweaters that cover you up.<br><br>
+                <u>And instead walking tall and in FULL CONFIDENCE that you have a body to absolutely die for.</u><br><br>
+                A body that turns men’s heads and makes women green with envy.
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-27">
+        <div class="container f-style">
+            <div class="box-s" id="guarantee">
+                <h2 class="center-t">If that isn’t amazing enough…<br>
+                    <b>We’re going to 100% GUARANTEE your results...</b><br>
+                    With an extended <span class="pink"><b>180-day money-back guarantee</b></span>.
+                </h2>
+                <div class="flex">
+                    <p>
+                        <br>
+                        Typically, we’d offer a 90-day guarantee with every purchase…<br><br>
+                        But because the Beach Ready Bites are so powerful…<br><br>
+                        And in such short supply…<br><br>
+                        We want you to be totally confident it will work for you.
+                    </p>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-guarantee.png" loading="lazy" id="guarantee2"></p>
+                </div>
+                <div class="flex bottle">
+                    <p>
+                        So here’s the deal…<br><br>
+                        Place your order for the Beach Ready Bites…<br><br>
+                        Your bottles will arrive in a few short days.<br><br>
+                        Tear open the packaging…<br><br>
+                        Pop a bottle open…<br><br>
+                        And take 2 gummies with every meal.<br><br>
+                        <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gummy-guarantee.png" loading="lazy" id="guarantee-img">
+                        The result? With every passing day you’ll start to notice the change.<br><br>
+                        At first, you’ll feel your body become electrified with new energy…<br><br>
+                        <b>Next, the clingy fat grabbing onto your belly will deflate…</b><br><br>
+                        <u>Your arms and legs will look more toned and tighter…</u><br><br>
+                        And you’ll lose the spare tire around your neck and face…
+                    </p>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gummy-bottle.png" loading="lazy" class="gummy-bot"></p>
+                </div>
+            </div>
+            <h1 class="center-t"><b><br>Yet that’s just the beginning…</b></h1>
+                <p>
+                    After one month, once tight fitting clothes will almost hang off your body…<br><br>
+                    After 3 months, your friends and family will barely recognize you… 
+                </p>
+                <div class="flex bottle">
+                    <p>
+                        But don’t stop there…<br><br>
+                        Month after month, you’ll see incredible new results…<br><br>
+                        You'll look and move like a woman half your age….<br><br>
+                        Each morning you’ll wake up refreshed and surging
+                        with energy…<br><br>
+                        And you’ll wonder how you ever went a minute not feeling
+                        this radiant and glamorous…<br><br>
+                        <span class="pink"><b>That’s what HUNDREDS of women before you and me who tried the
+                        Beach Ready Bites reported…</b></span><br><br>
+                        <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-women-beach.png" loading="lazy" id="women-beach">
+                        And, I have no doubt, it will be the same for you!<br><br>
+                        Yet, if for any reason during the next 180-days…
+                    </p>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-beach.png" loading="lazy" class="gummy-bot"></p>
+                </div>
+                <p>
+                    You’re not absolutely head-to-toes THRILLED with your results.<br><br>
+                    <span class="p-font blue-green green-fsize">(and I mean, any reason).</span><br><br>
+                    Or, even if you change your mind about the Beach Ready Bites for any reason whatsoever
+                    Then you will get a FULL refund.<br><br>
+                    We won’t ask any questions – and you don’t owe a single explanation.<br><br>
+                    It’s simple: you either love how you look and feel each day…
+                    Or you don’t pay a single dime.<br><br>
+                    Sounds fair?<br><br>
+                    Awesome! Then go ahead and choose your money-saving package below…<br><br>
+                    <b>And say “YES” to restoring the slim and sexy body of your 20s.</b><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-down-arrow.png" loading="lazy" class="hide-arrow">
+                </p>
+        </div>
+        <div class="sales container">
+            <!--one bottle-->
+            <div class="sales-box1 sales-box1-1 light-gray">
+                <p class="month-supply">1 Month Supply</p>
+                <p class="options"><span>Sample Option</span><span class="qty-bot">1 Bottle</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-1.png" loading="lazy" alt="Gummies One Bottle" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$59.00 USD </b></p>
+                <p class="saving-price">Savings: $100.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=761"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--Six bottles-->
+            <div class="sales-box2 light-gray">
+                <p class="month-supply">6 Months Supply</p>
+                <p class="options"><span>Biggest Savings</span><span class="qty-bot">6 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-6.png" loading="lazy" class="six-bot"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$29.00 USD </b></p>
+                <p class="saving-price">Savings: $720.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=763"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--three bottles-->
+            <div class="sales-box1 sales-box3 light-gray">
+                <p class="month-supply">3 Months Supply</p>
+                <p class="options"><span>Most Popular</span><span class="qty-bot">3 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-3.png" loading="lazy" alt="Gummies Thee Bottles" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$39.00 USD </b></p>
+                <p class="saving-price">Savings: $330.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=762"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+        </div>
+        <h5 class="center-t black"><b><br>Ok, it’s now reached that time for you to make a decision.</b><br><br>
+            You have two options ahead of you…</h5>
+    </div>
+    <div class="container f-style">
+        <h1 class="center-t"><b>
+            <span class="pink">Choose to begin your new life – as the slimmer,
+            confident version of yourself…</span>
+            Or do nothing – and continue living each day
+            filled with self-doubt and shame.</b>
+        </h1>
+        <div class="flex flex-d" id="mirror-w">
+            <p>
+                If you do nothing – that’s certainly your choice…<br><br>
+                But let me ask you: how will your life be different?<br><br>
+                Think about it months from now… even a year from now.<br><br>
+                <b>How will you feel looking in the mirror at the woman
+                carrying excess fat around, unnecessarily?</b><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-arrow-right.png" loading="lazy" id="right-arrow" class="hide-arrow"><br><br>
+                How will you feel when you pick out yet another baggy
+                outfit to bury yourself in?<br><br>
+                And how will you feel the next time you bump into an old 
+                friend from high school and see the look in their eyes that says…
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-waist3.png" loading="lazy" class="full-width"></p>
+        </div>
+        <p>
+            “She’s let herself go…”<br><br>
+            Reminding you that you’re simply NOT the hot girl your husband fell in love with.<br><br>
+            I don’t want that for you.<br><br>
+            Especially when today you can choose a different path...<br><br>
+            Choose to see your belly fat shrink away day by day…<br><br>
+            Choose to watch your arms and legs tone up…<br>
+            <img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-tone-up.png" loading="lazy" id="gummies2"><br>
+            And choose to enjoy the shock on your family members face...<br><br>
+            When you PROVE to them you could do it.<br><br>
+            <b>And you can bet I’ll be in your corner rooting for you the whole way!</b><br><br>
+            Let’s face it – you know which path your heart truly lies in.
+        </p>
+        <div class="flex fl-direction">
+            <p>
+                <u>Oh, and don’t forget – your order is 100% protected by
+                our money-back guarantee.</u><br><br>
+                So please, please, please – make the smart choice today…<br><br>
+                Click the 6-month <span class="p-font blue-green green-fsize">(or whichever is right for you)</span>
+                money saving package below right now.<br><br>
+                <b>Then buckle up…</b><br><br>
+                Because you’re about to go on the most
+                exciting journey of your life…<br><br>
+                I can’t wait to see you on the other side!<br><br>
+                Amy & Dr. Sterling
+            </p>
+            <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-can-do.png" loading="lazy" class="full-width bot-mobile"></p>
+        </div>
+    </div>
+    <div class="container-fluid light-blue2 sec-26">
+        <div class="sales container">
+            <!--one bottle-->
+            <div class="sales-box1 sales-box1-1 light-gray">
+                <p class="month-supply">1 Month Supply</p>
+                <p class="options"><span>Sample Option</span><span class="qty-bot">1 Bottle</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-1.png" loading="lazy" alt="Gummies One Bottle" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$59.00 USD </b></p>
+                <p class="saving-price">Savings: $100.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=761"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--Six bottles-->
+            <div class="sales-box2 light-gray">
+                <p class="month-supply">6 Months Supply</p>
+                <p class="options"><span>Biggest Savings</span><span class="qty-bot">6 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-6.png" loading="lazy" class="six-bot"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$29.00 USD </b></p>
+                <p class="saving-price">Savings: $720.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=763"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+            <!--three bottles-->
+            <div class="sales-box1 sales-box3 light-gray">
+                <p class="month-supply">3 Months Supply</p>
+                <p class="options"><span>Most Popular</span><span class="qty-bot">3 Bottles</span></p>
+                <p class="sales-img"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-bottle-3.png" loading="lazy" alt="Gummies Thee Bottles" class="one-bottle"></p>
+                <p class="sales-deal">TODAY’s SPECIAL DEAL</p>
+                <p class="slrp"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-red-strike.png" loading="lazy" class="red-strike">$149/each</p>
+                <p class="actual-price"><b>$39.00 USD </b></p>
+                <p class="saving-price">Savings: $330.00 USD</p>
+                <a href="/beach-ready-bites/secure-cart?offer_id=762"><p class="gradient-bg white-text b1g3-cart"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-cart-icon.png" loading="lazy" alt="cart icon" class="button-cart"><span>Add To Cart</span><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-right-arrow-cart.png" alt="cart arrow"></p></a>
+            </div>
+        </div> 
+        <div class="container f-style">
+            <h1 class="center-t">
+                You could be itching to burn off your excess fat with
+                the Beach Ready Bites – <span class="pink"><b>but there might be a few
+                questions still in your mind.</b></span>
+            </h1>
+            <h2 class="center-t p-font">
+                No problem! To help make this smart decision, here are
+                some of the questions people commonly ask…
+            </h2>
+            <!--FAQS-->
+            <div class="faqs-box">
+                <h3 class="pink">How exactly do the Beach Ready Bites work again?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        The Beach Ready Bites are based on a Harvard and Stanford
+                        discovery, that determined the true cause of weight gain to
+                        be low amylase levels. <br><br>
+                        When your amylase levels malfunction (and plunge),
+                        insulin levels skyrocket.<br><br>
+                        In short, this programs every food you eat to stored as clingy fat.<br><br>
+                        And that’s where Dr. Sterling’s Beach Ready Bites breakthrough comes in! 
+                    </p>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-har-stand.png" loading="lazy"></p>
+                </div>
+                <p>It’s made with his “living nutrient” following a special, proprietary process to address your
+                    amylase malfunction.<br><br>
+                    So each chew of your food now burns off fat without special diets or crazy exercise.
+                </p>
+                </div>
+            </div>
+
+            <div class="faqs-box">
+                <h3 class="pink">Is it safe?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        Yes, the Beach Ready Bites are completely safe. It’s made in a stateof-the-art GMP compliant facility following the doctor’s special,
+                        proprietary process. So it’s no surprise thousands of women have
+                        reported incredible results… without any side-effects.
+                    </p>
+                    <p class="center-t"><img src="https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-gmp2.png" loading="lazy"></p>
+                </div>
+                </div>
+            </div>
+
+            <div class="faqs-box hand">
+                <h3 class="pink">How often should I take it?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        For the best results, simply take two of the Beach Ready Bites, ideally
+                        with every meal – breakfast, lunch and dinner.<br><br>
+                        The reason why is you want to make sure every crumb you eat is
+                        turned into energy -- and not fat.
+                    </p>
+                   
+                </div>
+                </div>
+            </div>
+
+            <div class="faqs-box b-discount">
+                <h3 class="pink">How long before I see the benefits?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        Most people notice changes within the first week.<br><br>
+                        <b>Your body’s fat burning potential is ignited -- as amylase levels ramp up.</b><br><br>
+                        First you’ll notice the stubborn fat on your belly melt away.<br><br>
+                        Your jeans will slip on with ease.<br><br>
+                        Three months in, friends and family will shower you in praise.<br><br>
+                        And six months in, you’ll look at old photos and wonder if
+                        you look better now than in your 20s!
+                    </p>
+                   
+                </div>
+                </div>
+            </div>
+
+            <div class="faqs-box">
+                <h3 class="pink">How do I get the biggest discount possible?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        Simple... <br><br>
+                        Just order the 6-bottle option for the biggest savings.
+                    </p>
+                </div>
+                </div>
+            </div>
+
+            <div class="faqs-box">
+                <h3 class="pink">How do I get started?</h3>
+                <div class="faqs">
+                <div class="flex">
+                    <p class="mb-0">
+                        Easy!<br><br>
+                        Just choose from one of the packages you see at the bottom 
+                        of this page right now and place your order.<br><br>
+                        <b><u>Our 6-bottle option is by far the most popular because you get the greatest savings.</u></b><br><br>
+                        Whichever package you choose – you can expect to get started on 
+                        your weight loss journey within 3-5 business days<br><br>
+                        In fact, I’m so confident you’re going to stunned by your results...<br><br>
+                        <b>You’re completely covered by our extended 180-Day, 100% Money Back Guarantee.</b><br><br>
+                        So go ahead and place your order now…<br><br>
+                        That way, you can quickly join the thousands of women across the world who have shed their excess weight and now look and feel like a woman half their age!
+                    </p>
+                </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+		      <footer class="py-5" style="background-image: linear-gradient(rgb(0, 43, 65), rgb(0, 43, 65)) !important;">
+    <div class="default-bg">
+        <div class="container">
+            <div class="row align-items-center">
+				<div class="col-md-4 footer-logo">
+					<a href=""><img src="https://storage.googleapis.com/wfhq_sciencenatural/bioswitch/assets/images/logo.png"></a>
+				</div>
+				
+				<div class="col-md-8 footer-links-1">
+					
+
+					<nav class="navbar navbar-expand-md">
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
+							<span class="navbar-toggler-icon"></span>
+							<span class="navbar-toggler-icon"></span>
+							<span class="navbar-toggler-icon"></span>
+					</button>
+						<div class="collapse navbar-collapse" id="myNavbar">
+							<ul class="nav navbar-nav">
+                              <li role="presentation"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#termsModal" class="nowrap">Terms of service</a></li>
+							<li role="presentation"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#privacyModal" class="nowrap">Privacy Policy</a></li>
+			                <li role="presentation"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#returnModal" class="nowrap">Returns</a></li>
+            			    <li role="presentation" class="d-none"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#donotsellModal" class="nowrap">Do Not Sell My Personal Information</a></li>
+			                <li role="presentation"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#affModal" class="nowrap">Affiliate Disclosure</a></li>
+                              <li role="presentation"><a style="font-size: .85rem" href="javascript:void(0);" data-toggle="modal" data-target="#contactModal">Contact</a></li>	
+							</ul>
+		
+						</div>
+					  </nav>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<p style="font-size: 12px;color:#fff;text-align:left;">
+						<br><br>
+						“Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. Review all product warnings prior to use." "Not intended to cure any disease”.
+						<br><br>
+						The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. Always consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem. You should not stop taking any medication without first consulting your physician. Results featured on this web site are atypical. As individuals differ, so will results. Science Natural Supplements distributes a product line made with natural ingredients. Always check with your doctor for risks associated with dietary supplements and your specific health conditions and/or allergies.
+					</p>
+				</div>
+			</div>
+
+			<p class="text-center copyright" style="margin-top:2rem">
+				Copyright 2022 - Science Natural Supplements - All Rights Reserved - (800) 305-1445 - support@sciencenaturalsupplements.com
+			</p>
+		</div>
+	</div>
+</footer>
+  
+     <div class="modal fade" id="privacyModal" tabindex="-1" role="dialog" aria-labelledby="privacyModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://science-naturals.com/privacy-policy" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="termsModal" tabindex="-1" role="dialog" aria-labelledby="termsModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://science-naturals.com/terms" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="donotsellModal" tabindex="-1" role="dialog" aria-labelledby="donotsellModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://www.sciencenaturalwellness.com/footer/donotsell.php" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://science-naturals.com/contact" frameborder="0" ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="modal fade" id="returnModal" tabindex="-1" role="dialog" aria-labelledby="returnModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://science-naturals.com/shipping" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="modal fade" id="affModal" tabindex="-1" role="dialog" aria-labelledby="affModal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content p-0">
+          <div class="modal-body p-0">
+            <iframe style="height: 500px;" class="w-100" src="https://science-naturals.com/affiliate-disclosure" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+
+
+<script src="/js/frontEnd.js"></script>
+    <script src="https://storage.googleapis.com/wfhq_sciencenatural/moringa/js/jquery.min.js"></script>
+<script src="https://storage.googleapis.com/wfhq_sciencenatural/moringa/js/popper.min.js"></script>
+    		
+		  <script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+
+            function consentWithCookies() {
+                setCookie('wfs_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value + '; ' + 'expires=' + date.toUTCString() +';path=/';
+            }
+
+            if(cookieExists('wfs_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+</body>
+</html>

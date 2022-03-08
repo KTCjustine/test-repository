@@ -1,0 +1,346 @@
+@media (max-width: 1200px){
+    /* .border-div{
+        border: 2px solid blue;
+    } */
+    .container{
+        max-width: 1200px;      
+    }
+    .header h1 {
+        font-size: 55px;
+    }
+     /* i start here */ 
+     .adobe-stock {
+        max-width: 400px;
+    }  
+    .Hydration2 {
+        max-width:350px;
+        margin-top:-10px;
+        margin-left: 40px;
+    }
+    .limited-edition2 {
+        background-size: 120px;
+        background-position: right bottom 470px;
+    }
+    .section-04-sub-2 {
+        margin-top: 0px;
+    }
+}
+@media (max-width: 991px){
+    .border-div{
+        border: 2px solid orange;
+    }
+    .container{
+        max-width: 991px;
+    }
+    .header h1 {
+        font-size: 45px;
+    }
+    .section-03-sub-2 {
+        background-size: 100%;
+        background-position: left;
+    }
+    .text-8 {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .text-9 {
+        font-size: 15px;     
+    }
+    .dr-zane {
+        padding:10px
+    }
+    /* i start here */
+    .header {
+        flex-direction:column !important;       
+    }
+    .header01 {
+        flex-direction:row !important;       
+    }
+    .header02 {
+        flex-direction:column!important;
+    }
+    .flex-row1    {  
+        margin: 0px auto!important;      
+    }
+    .hydration {
+        max-width: 200px;
+    }
+    .guaranteed {
+        max-width: 300px;
+    }    
+    .box4 {
+        text-align: center;
+    }
+    .adobe-stock {
+        max-width: 200px;
+    } 
+    .section-03-sub-5 {
+        background-size: 80%;
+        background-position: right top;
+    }
+    .section-03-sub-6  {
+        background-image: linear-gradient(to top, rgba(245, 246, 252, 0.52), rgba(245, 246, 252, 0.52)),
+        url(../images/Mask\ Group\ 123.png);
+    }
+    .stocks-1 {
+        max-width: 400px;     
+    }
+    .limited-edition2 {
+        background-image: none!important;
+    }   
+}
+
+@media (max-width: 768px) {
+    .border-div{
+        border: 2px solid brown;
+    }
+    .container{
+        max-width: 768px;
+    }
+    .header h1 {
+        font-size: 35px;
+    }
+     /* i start here */   
+    .adobe-stock {       
+        padding-left: 50px;
+     } 
+    .in-fact-2 {
+        flex-direction: column-reverse!important;
+     }
+     
+    .box3  {
+        display: flex;
+        flex-direction: column!important;
+        margin-left: 0px;
+     }
+    .box4 {
+        text-align: center;
+     }
+     
+    .hydration {
+        max-width: 200px;
+     }
+    .guaranteed {
+        max-width: 200px;       
+    }   
+    .btn {
+        display: flex;
+        flex-direction:column!important;
+        max-width: 20px;
+        font-size: 10px;
+    }
+    .sec-enc {
+        display: flex;
+        flex-direction:column!important;
+    }
+    .txt-secenc {
+        text-align: center;
+    }
+    .dr-zane {
+        max-width: 300px;
+    }
+    .padlock {
+        max-width: 80px;
+        padding-left: 20px;
+    }
+    .limited-edition  {
+        background: none!important;
+    }
+    .section-03-sub-1 {
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+     .section-03-sub-3 {
+        display: flex;
+        flex-direction: column!important;
+     }
+     .section-03-sub-4 {
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+    .section-03-sub-2 {
+        background-position: right top;
+        background-size: 70%; 
+    
+    }
+    .text-7 {
+        font-size: 15px;       
+    }
+    .text-8 {
+        font-size: 15px;
+        font-weight: 700;
+        padding-left:0px
+    }
+    .text-9 {
+        width: 100%;
+        padding-left:0px
+    }
+    .section-03-sub-5 {
+        background-size: 70%;
+        background-position: right top;
+    }
+    .section-03-sub-6  {
+        background-image: linear-gradient(to top, rgba(245, 246, 252, 0.52), rgba(245, 246, 252, 0.52)),
+        url(../images/Mask\ Group\ 123.png);
+        background-position: right top;
+    }
+    .section-04-sub-2 {
+        margin-left: 30px;
+    }
+    .stocks-1 {
+        max-width: 400px;  
+    }
+    .guaranteed2 {
+        margin-left: 0px;
+    }
+    .icons-100 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .in-guarantee img {
+        max-width: 91px;
+        margin-top: -40px;
+        margin-left: 0px;
+    }
+    .Hydration2 {    
+        margin-left: 0px;
+        padding-top: 50px;
+        max-width: 280px;
+    }   
+    .limited-edition2 {
+        background-size: 100px;
+    }
+    .limited-edition2 {
+        background-image: none!important;
+    }
+    .sec-enc  img  {
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .box4 {
+        margin-left: 0px;
+    }
+    .mb-rush{
+        margin-left: 0px;
+    }
+    .btn1 {
+        border-radius: 10px;
+        padding: 10px 10px;          
+    }   
+    .box1-right {
+        flex-direction: column-reverse!important;
+    }
+    .text-13 {
+        width: 100%;
+    }  
+    .text2 {
+        text-align: center;
+        font-size: 36px!important;
+    }   
+    .text-14 {
+        font-size: 20px;
+        width: 100%;
+    }
+}
+   
+    
+@media (max-width: 500px) {
+    .border-div{
+        border: 2px solid red;
+    }
+    .container{
+        max-width: 500px;
+    }
+    .header h1 {
+        font-size: 25px;
+    }
+    /* i start here */
+        
+    .flex-row01 {
+        margin: auto;
+        padding-left:auto;
+        text-align: center;
+    }
+    .flex-row02 {
+        margin: auto;
+        padding-left: auto;
+        text-align: center;      
+    }
+    .flex-row03 {
+        margin: auto;
+        padding-left:auto;        
+    }
+    .flex-row2  {
+        margin: 0px auto;
+        align-items: center;     
+    }
+    .flex-row1  {
+        margin: 0px auto;
+        align-items: flex-start;       
+    }
+    .flex-row3  {
+        margin: 0px auto;
+        align-items: center;       
+    }
+    .section-03-sub-2 {
+        background-image: none!important; 
+    }
+    .text-8 {
+        font-size: 20px;
+        width: 100%;
+        padding-left:10px
+    }
+    .text-9 {
+        width: 100%;
+        padding-left:10px
+    }
+    .text2 {
+        text-align: center;
+        font-size: 26px!important;
+    }
+    .text7 {
+        text-align: center!important;
+    }
+    .section-04-sub-2 { 
+        margin-left: 20px;
+    }
+    .box1 {
+        display: flex;
+        flex-direction: column-reverse!important;
+        align-items: center;
+        text-align: center;
+    }
+    .text-12 {
+        font-size: 20px;
+        width: 100%;
+    }
+    .text-13 {
+        width: 100%;
+    }  
+    .section-03-sub-5 {
+        background-image: none !important; 
+        
+    }
+    .text-14 {
+        font-size: 20px;
+        width: 100%;
+    }
+    .section-03-sub-6  {
+        background-image: none !important; 
+    }
+    .in-fact {
+        font-size: 22px;
+    }
+    .sdiscount {
+        padding: 5px 10px;
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    .section-padder {
+        padding: 10px 20px
+
+    }
+
+}
+
+

@@ -1,0 +1,52 @@
+/* <background-colors> */
+
+.light-blue{
+    background-color: #E3ECEB;
+}
+
+.light-blue2{
+    background-color: #EFF6F5;
+}
+.light-blue3{
+    background-color: #ECECEC;
+}
+.header{
+    background-image: url('https://storage.googleapis.com/wfhq_sciencenatural/Beach%20Ready%20Boost%20Bites/assets/img/index-hero.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    padding: 80px 0px 130px 0px;
+    background-size: contain;
+}
+.header h1 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+.header h1 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.black {
+    color: #000000;
+    font-weight: 500;
+}
+.melt {
+    position: relative;
+}
+.pink {
+    color: #BF0085;
+}
+
+.header h2 {
+    font-size: 65px;
+    text-align: center;
+}
+.blue-green {
+    color: #00897A;
+}
+
+.p-font {
+    font-family: 'Patrick Hand', cursive;
+}
